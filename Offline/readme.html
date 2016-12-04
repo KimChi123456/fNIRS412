@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+
+	<title>
+	Sparsity-Assisted Signal Smoothing (SASS)
+	</title>
+</head>
+
+<body>
+
+
+
+<h3>
+Matlab Software for Sparsity-Assisted Signal Smoothing (SASS)
+</h3>
+
+<p>
+Version 2 (under construction)
+</p>
+
+<p>
+This is a MATLAB software package for the denoising of 1D signals using 
+the SASS approach.
+In the SASS approach, the signal of interest x(t)
+is modeled as the sum of 
+a low-pass component f(t) and a sparse order-K derivative component g(t)
+[x(t) = f(t) + g(t)].
+It is assumed that the observed data is corrupted by additive white Gaussian noise (AWGN) w(t) [y(t) = x(t) + w(t)].
+</p>
+
+
+<h4>
+Matlab Programs
+</h4>
+<ul>
+<li>
+<a href="sass.m">sass.m</a>: SASS algorithm
+</li>
+<li>
+<a href="sass2.m">sass2.m</a>: SASS algorithm with zero-locking correction
+</li>
+<li>
+<a href="ABfilt.m">ABfilt.m</a>: Utility function for creating sparse filter matrices
+</li>
+</ul>
+
+
+<h4>Examples in Matlab</h4>
+
+<ul>
+
+	<li>
+	<a href="html/Example1.html">Example 1</a>:
+	Discontinuous derivative
+	</li>
+
+	<li>
+	<a href="html/Example2.html">Example 2</a>:
+	ECG signal denoising
+	</li>
+
+
+</ul>
+
+
+
+
+<h4>Reference</h4>
+
+<p>
+Sparsity-Assisted Signal Smoothing
+</br>
+Ivan W. Selesnick
+</br>
+Web: <a href="http://eeweb.poly.edu/iselesni/sass">http://eeweb.poly.edu/iselesni/sass</a>
+<p>
+
+
+<h4>Contact</h4>
+
+<pre>
+Ivan Selesnick
+Email: selesi@poly.edu
+Electrical and Computer Engineering Dept.
+NYU Polytechnic School of Engineering
+Brooklyn, New York, USA
+</pre>
+
+
+<h4>Acknowledgment</h4>
+
+<p>
+This research was support by the NSF under Grant No. CCF-1018020.
+</p>
+
+
+</body>
+
+</html>
+
+

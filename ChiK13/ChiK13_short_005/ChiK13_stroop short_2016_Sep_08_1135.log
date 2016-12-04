@@ -1,0 +1,1265 @@
+1.1742 	WARNING 	Movie2 stim could not be imported and won't be available
+16.4890 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x09784C10>, name='window1', pos=[0, 0], screen=0, size=array([1360,  768]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.4890 	EXP 	window1: recordFrameIntervals = False
+16.6549 	EXP 	window1: recordFrameIntervals = True
+16.8383 	EXP 	window1: recordFrameIntervals = False
+16.9346 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Welcome to Stroop Task \n- Short Paradigm -', units=u'norm', win=Window(...), wrapWidth=1)
+17.0002 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+17.0161 	EXP 	Created instruction2_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='instruction2_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+17.0207 	EXP 	Created rest_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='rest_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+17.0337 	EXP 	Created text_5 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_5', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'trial 1./3', units=u'norm', win=Window(...), wrapWidth=1)
+17.0387 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+17.0423 	EXP 	Created fixationmain = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixationmain', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.0449 	EXP 	Created text_6 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_6', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.0847 	EXP 	Created text_7 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_7', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'trial 2/3', units=u'norm', win=Window(...), wrapWidth=1)
+17.0898 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+17.0925 	EXP 	Created fixationmain = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixationmain', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.0951 	EXP 	Created text_8 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_8', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.1005 	EXP 	Created text_9 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_9', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'trial 3/3', units=u'norm', win=Window(...), wrapWidth=1)
+17.1055 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+17.1081 	EXP 	Created fixationmain = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixationmain', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.1107 	EXP 	Created text_10 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_10', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.1159 	EXP 	Created text_11 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text_11', opacity=1.0, ori=0, pos=array([-0.8,  0.8]), rgb=array([ 255.,  255.,  255.]), text=u'trial 3/3', units=u'norm', win=Window(...), wrapWidth=1)
+17.1237 	EXP 	Created ending_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='ending_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Thank you for your participation :)', units=u'norm', win=Window(...), wrapWidth=1)
+17.1381 	EXP 	intro_text: autoDraw = True
+22.0370 	DATA 	Keypress: space
+22.0534 	EXP 	intro_text: autoDraw = False
+22.0534 	EXP 	text: autoDraw = True
+24.5363 	DATA 	Keypress: space
+24.5528 	EXP 	text: autoDraw = False
+24.5528 	EXP 	instruction2_text: autoDraw = True
+27.8522 	DATA 	Keypress: space
+27.8686 	EXP 	instruction2_text: autoDraw = False
+27.8686 	EXP 	rest_text: text = '+'
+27.8686 	EXP 	rest_text: autoDraw = True
+27.8686 	EXP 	text_5: autoDraw = True
+87.8705 	EXP 	Imported Stroopmain-short-in-10event x 4.xlsx as conditions, 40 conditions, 4 params
+87.8709 	EXP 	Created sequence: sequential, trialTypes=40, nReps=1, seed=None
+87.8722 	EXP 	New trial (rep=0, index=0): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+87.9031 	EXP 	rest_text: autoDraw = False
+87.9031 	EXP 	text_5: autoDraw = False
+87.9031 	EXP 	text_2: color = u'RED (named)'
+87.9031 	EXP 	text_2: text = u'V\xc0NG'
+87.9031 	EXP 	fixationmain: autoDraw = True
+88.6862 	EXP 	fixationmain: autoDraw = False
+88.7028 	EXP 	text_2: autoDraw = True
+89.6195 	DATA 	Keypress: x
+89.7527 	DATA 	Keypress: z
+89.9858 	EXP 	text_2: autoDraw = False
+90.8697 	EXP 	New trial (rep=0, index=1): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+90.8856 	EXP 	text_2: autoDraw = False
+90.8856 	EXP 	fixationmain: autoDraw = False
+90.8856 	EXP 	text_2: color = u'RED (named)'
+90.8856 	EXP 	text_2: text = u'\u0110\u1ece'
+90.8856 	EXP 	fixationmain: autoDraw = True
+91.6853 	EXP 	fixationmain: autoDraw = False
+91.7021 	EXP 	text_2: autoDraw = True
+92.2188 	DATA 	Keypress: z
+92.9850 	EXP 	text_2: autoDraw = False
+93.8688 	EXP 	New trial (rep=0, index=2): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'z'}
+93.8848 	EXP 	text_2: autoDraw = False
+93.8848 	EXP 	fixationmain: autoDraw = False
+93.8848 	EXP 	text_2: color = u'BLUE (named)'
+93.8848 	EXP 	text_2: text = u'XANH L\xc1'
+93.8848 	EXP 	fixationmain: autoDraw = True
+94.6846 	EXP 	fixationmain: autoDraw = False
+94.7012 	EXP 	text_2: autoDraw = True
+95.7012 	DATA 	Keypress: m
+95.9842 	EXP 	text_2: autoDraw = False
+96.8679 	EXP 	New trial (rep=0, index=3): {u'color': u'YELLOW', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+96.8841 	EXP 	text_2: autoDraw = False
+96.8841 	EXP 	fixationmain: autoDraw = False
+96.8841 	EXP 	text_2: color = u'YELLOW (named)'
+96.8841 	EXP 	text_2: text = u'\u0110\u1ece'
+96.8841 	EXP 	fixationmain: autoDraw = True
+97.6838 	EXP 	fixationmain: autoDraw = False
+97.7005 	EXP 	text_2: autoDraw = True
+98.4504 	DATA 	Keypress: x
+98.9835 	EXP 	text_2: autoDraw = False
+99.8671 	EXP 	New trial (rep=0, index=4): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+99.8832 	EXP 	text_2: autoDraw = False
+99.8832 	EXP 	fixationmain: autoDraw = False
+99.8832 	EXP 	text_2: color = u'GREEN (named)'
+99.8832 	EXP 	text_2: text = u'\u0110\u1ece'
+99.8832 	EXP 	fixationmain: autoDraw = True
+100.6830 	EXP 	fixationmain: autoDraw = False
+100.6997 	EXP 	text_2: autoDraw = True
+101.5497 	DATA 	Keypress: n
+101.9827 	EXP 	text_2: autoDraw = False
+102.8663 	EXP 	New trial (rep=0, index=5): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+102.8991 	EXP 	text_2: autoDraw = False
+102.8991 	EXP 	fixationmain: autoDraw = False
+102.8991 	EXP 	text_2: color = u'RED (named)'
+102.8991 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+102.8991 	EXP 	fixationmain: autoDraw = True
+103.6822 	EXP 	fixationmain: autoDraw = False
+103.6989 	EXP 	text_2: autoDraw = True
+104.6988 	DATA 	Keypress: z
+104.9819 	EXP 	text_2: autoDraw = False
+105.8655 	EXP 	New trial (rep=0, index=6): {u'color': u'GREEN', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'n'}
+105.8817 	EXP 	text_2: autoDraw = False
+105.8817 	EXP 	fixationmain: autoDraw = False
+105.8817 	EXP 	text_2: color = u'GREEN (named)'
+105.8817 	EXP 	text_2: text = u'V\xc0NG'
+105.8817 	EXP 	fixationmain: autoDraw = True
+106.6814 	EXP 	fixationmain: autoDraw = False
+106.6981 	EXP 	text_2: autoDraw = True
+107.5147 	DATA 	Keypress: n
+107.9811 	EXP 	text_2: autoDraw = False
+108.8648 	EXP 	New trial (rep=0, index=7): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'x'}
+108.8808 	EXP 	text_2: autoDraw = False
+108.8808 	EXP 	fixationmain: autoDraw = False
+108.8808 	EXP 	text_2: color = u'YELLOW (named)'
+108.8808 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+108.8808 	EXP 	fixationmain: autoDraw = True
+109.6806 	EXP 	fixationmain: autoDraw = False
+109.6973 	EXP 	text_2: autoDraw = True
+110.7138 	DATA 	Keypress: x
+110.9803 	EXP 	text_2: autoDraw = False
+111.8640 	EXP 	New trial (rep=0, index=8): {u'color': u'GREEN', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'n'}
+111.8800 	EXP 	text_2: autoDraw = False
+111.8800 	EXP 	fixationmain: autoDraw = False
+111.8800 	EXP 	text_2: color = u'GREEN (named)'
+111.8800 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+111.8800 	EXP 	fixationmain: autoDraw = True
+112.6798 	EXP 	fixationmain: autoDraw = False
+112.6965 	EXP 	text_2: autoDraw = True
+113.7964 	DATA 	Keypress: n
+113.9796 	EXP 	text_2: autoDraw = False
+114.8633 	EXP 	New trial (rep=0, index=9): {u'color': u'RED', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'z'}
+114.8793 	EXP 	text_2: autoDraw = False
+114.8793 	EXP 	fixationmain: autoDraw = False
+114.8793 	EXP 	text_2: color = u'RED (named)'
+114.8793 	EXP 	text_2: text = u'XANH L\xc1'
+114.8793 	EXP 	fixationmain: autoDraw = True
+115.6791 	EXP 	fixationmain: autoDraw = False
+115.6957 	EXP 	text_2: autoDraw = True
+116.3290 	DATA 	Keypress: z
+116.9787 	EXP 	text_2: autoDraw = False
+117.8624 	EXP 	New trial (rep=0, index=10): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'x'}
+117.8785 	EXP 	text_2: autoDraw = False
+117.8785 	EXP 	fixationmain: autoDraw = False
+117.8785 	EXP 	text_2: color = u'YELLOW (named)'
+117.8785 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+117.8785 	EXP 	fixationmain: autoDraw = True
+118.6782 	EXP 	fixationmain: autoDraw = False
+118.6949 	EXP 	text_2: autoDraw = True
+119.3950 	DATA 	Keypress: x
+119.9779 	EXP 	text_2: autoDraw = False
+120.8617 	EXP 	New trial (rep=0, index=11): {u'color': u'RED', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+120.8777 	EXP 	text_2: autoDraw = False
+120.8777 	EXP 	fixationmain: autoDraw = False
+120.8777 	EXP 	text_2: color = u'RED (named)'
+120.8777 	EXP 	text_2: text = u'\u0110\u1ece'
+120.8777 	EXP 	fixationmain: autoDraw = True
+121.6774 	EXP 	fixationmain: autoDraw = False
+121.6941 	EXP 	text_2: autoDraw = True
+122.2442 	DATA 	Keypress: z
+122.9771 	EXP 	text_2: autoDraw = False
+123.8608 	EXP 	New trial (rep=0, index=12): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+123.8769 	EXP 	text_2: autoDraw = False
+123.8769 	EXP 	fixationmain: autoDraw = False
+123.8769 	EXP 	text_2: color = u'BLUE (named)'
+123.8769 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+123.8769 	EXP 	fixationmain: autoDraw = True
+124.6766 	EXP 	fixationmain: autoDraw = False
+124.6934 	EXP 	text_2: autoDraw = True
+125.2933 	DATA 	Keypress: m
+125.9763 	EXP 	text_2: autoDraw = False
+126.8601 	EXP 	New trial (rep=0, index=13): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+126.8761 	EXP 	text_2: autoDraw = False
+126.8761 	EXP 	fixationmain: autoDraw = False
+126.8761 	EXP 	text_2: color = u'GREEN (named)'
+126.8761 	EXP 	text_2: text = u'\u0110\u1ece'
+126.8761 	EXP 	fixationmain: autoDraw = True
+127.6759 	EXP 	fixationmain: autoDraw = False
+127.6925 	EXP 	text_2: autoDraw = True
+128.3927 	DATA 	Keypress: n
+128.9755 	EXP 	text_2: autoDraw = False
+129.8592 	EXP 	New trial (rep=0, index=14): {u'color': u'BLUE', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'm'}
+129.8753 	EXP 	text_2: autoDraw = False
+129.8753 	EXP 	fixationmain: autoDraw = False
+129.8753 	EXP 	text_2: color = u'BLUE (named)'
+129.8753 	EXP 	text_2: text = u'\u0110\u1ece'
+129.8753 	EXP 	fixationmain: autoDraw = True
+130.6751 	EXP 	fixationmain: autoDraw = False
+130.6917 	EXP 	text_2: autoDraw = True
+131.6250 	DATA 	Keypress: m
+131.9748 	EXP 	text_2: autoDraw = False
+132.8584 	EXP 	New trial (rep=0, index=15): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+132.8745 	EXP 	text_2: autoDraw = False
+132.8745 	EXP 	fixationmain: autoDraw = False
+132.8745 	EXP 	text_2: color = u'BLUE (named)'
+132.8745 	EXP 	text_2: text = u'XANH L\xc1'
+132.8745 	EXP 	fixationmain: autoDraw = True
+133.6743 	EXP 	fixationmain: autoDraw = False
+133.6909 	EXP 	text_2: autoDraw = True
+134.4076 	DATA 	Keypress: n
+134.9739 	EXP 	text_2: autoDraw = False
+135.8576 	EXP 	New trial (rep=0, index=16): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+135.8737 	EXP 	text_2: autoDraw = False
+135.8737 	EXP 	fixationmain: autoDraw = False
+135.8737 	EXP 	text_2: color = u'YELLOW (named)'
+135.8737 	EXP 	text_2: text = u'XANH L\xc1'
+135.8737 	EXP 	fixationmain: autoDraw = True
+136.6735 	EXP 	fixationmain: autoDraw = False
+136.6902 	EXP 	text_2: autoDraw = True
+137.4901 	DATA 	Keypress: x
+137.9731 	EXP 	text_2: autoDraw = False
+138.8569 	EXP 	New trial (rep=0, index=17): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+138.8728 	EXP 	text_2: autoDraw = False
+138.8728 	EXP 	fixationmain: autoDraw = False
+138.8728 	EXP 	text_2: color = u'RED (named)'
+138.8728 	EXP 	text_2: text = u'V\xc0NG'
+138.8728 	EXP 	fixationmain: autoDraw = True
+139.6727 	EXP 	fixationmain: autoDraw = False
+139.6894 	EXP 	text_2: autoDraw = True
+140.3227 	DATA 	Keypress: z
+140.9723 	EXP 	text_2: autoDraw = False
+141.8560 	EXP 	New trial (rep=0, index=18): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+141.8721 	EXP 	text_2: autoDraw = False
+141.8721 	EXP 	fixationmain: autoDraw = False
+141.8721 	EXP 	text_2: color = u'RED (named)'
+141.8721 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+141.8721 	EXP 	fixationmain: autoDraw = True
+142.6719 	EXP 	fixationmain: autoDraw = False
+142.6886 	EXP 	text_2: autoDraw = True
+143.5885 	DATA 	Keypress: z
+143.9716 	EXP 	text_2: autoDraw = False
+144.8552 	EXP 	New trial (rep=0, index=19): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'm'}
+144.8713 	EXP 	text_2: autoDraw = False
+144.8713 	EXP 	fixationmain: autoDraw = False
+144.8713 	EXP 	text_2: color = u'GREEN (named)'
+144.8713 	EXP 	text_2: text = u'\u0110\u1ece'
+144.8713 	EXP 	fixationmain: autoDraw = True
+145.6711 	EXP 	fixationmain: autoDraw = False
+145.6878 	EXP 	text_2: autoDraw = True
+146.3878 	DATA 	Keypress: n
+146.9709 	EXP 	text_2: autoDraw = False
+147.8545 	EXP 	New trial (rep=0, index=20): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+147.8705 	EXP 	text_2: autoDraw = False
+147.8705 	EXP 	fixationmain: autoDraw = False
+147.8705 	EXP 	text_2: color = u'BLUE (named)'
+147.8705 	EXP 	text_2: text = u'XANH L\xc1'
+147.8705 	EXP 	fixationmain: autoDraw = True
+148.6703 	EXP 	fixationmain: autoDraw = False
+148.6871 	EXP 	text_2: autoDraw = True
+149.4537 	DATA 	Keypress: m
+149.9700 	EXP 	text_2: autoDraw = False
+150.8537 	EXP 	New trial (rep=0, index=21): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+150.8697 	EXP 	text_2: autoDraw = False
+150.8697 	EXP 	fixationmain: autoDraw = False
+150.8697 	EXP 	text_2: color = u'RED (named)'
+150.8697 	EXP 	text_2: text = u'V\xc0NG'
+150.8697 	EXP 	fixationmain: autoDraw = True
+151.6695 	EXP 	fixationmain: autoDraw = False
+151.6862 	EXP 	text_2: autoDraw = True
+152.7860 	DATA 	Keypress: z
+152.9692 	EXP 	text_2: autoDraw = False
+153.8530 	EXP 	New trial (rep=0, index=22): {u'color': u'GREEN', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'n'}
+153.8689 	EXP 	text_2: autoDraw = False
+153.8689 	EXP 	fixationmain: autoDraw = False
+153.8689 	EXP 	text_2: color = u'GREEN (named)'
+153.8689 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+153.8689 	EXP 	fixationmain: autoDraw = True
+154.6687 	EXP 	fixationmain: autoDraw = False
+154.6854 	EXP 	text_2: autoDraw = True
+155.8520 	DATA 	Keypress: n
+155.9684 	EXP 	text_2: autoDraw = False
+156.8521 	EXP 	New trial (rep=0, index=23): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+156.8682 	EXP 	text_2: autoDraw = False
+156.8682 	EXP 	fixationmain: autoDraw = False
+156.8682 	EXP 	text_2: color = u'YELLOW (named)'
+156.8682 	EXP 	text_2: text = u'V\xc0NG'
+156.8682 	EXP 	fixationmain: autoDraw = True
+157.6679 	EXP 	fixationmain: autoDraw = False
+157.6846 	EXP 	text_2: autoDraw = True
+158.9676 	EXP 	text_2: autoDraw = False
+159.0011 	DATA 	Keypress: x
+159.8514 	EXP 	New trial (rep=0, index=24): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+159.8673 	EXP 	text_2: autoDraw = False
+159.8673 	EXP 	fixationmain: autoDraw = False
+159.8673 	EXP 	text_2: color = u'RED (named)'
+159.8673 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+159.8673 	EXP 	fixationmain: autoDraw = True
+160.6672 	EXP 	fixationmain: autoDraw = False
+160.6838 	EXP 	text_2: autoDraw = True
+161.9668 	EXP 	text_2: autoDraw = False
+162.0170 	DATA 	Keypress: z
+162.8505 	EXP 	New trial (rep=0, index=25): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+162.8666 	EXP 	text_2: autoDraw = False
+162.8666 	EXP 	fixationmain: autoDraw = False
+162.8666 	EXP 	text_2: color = u'GREEN (named)'
+162.8666 	EXP 	text_2: text = u'\u0110\u1ece'
+162.8666 	EXP 	fixationmain: autoDraw = True
+163.6663 	EXP 	fixationmain: autoDraw = False
+163.6830 	EXP 	text_2: autoDraw = True
+164.5831 	DATA 	Keypress: n
+164.9660 	EXP 	text_2: autoDraw = False
+165.8498 	EXP 	New trial (rep=0, index=26): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+165.8658 	EXP 	text_2: autoDraw = False
+165.8658 	EXP 	fixationmain: autoDraw = False
+165.8658 	EXP 	text_2: color = u'BLUE (named)'
+165.8658 	EXP 	text_2: text = u'XANH L\xc1'
+165.8658 	EXP 	fixationmain: autoDraw = True
+166.6655 	EXP 	fixationmain: autoDraw = False
+166.6823 	EXP 	text_2: autoDraw = True
+167.9652 	EXP 	text_2: autoDraw = False
+168.1487 	DATA 	Keypress: m
+168.8489 	EXP 	New trial (rep=0, index=27): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+168.8650 	EXP 	text_2: autoDraw = False
+168.8650 	EXP 	fixationmain: autoDraw = False
+168.8650 	EXP 	text_2: color = u'YELLOW (named)'
+168.8650 	EXP 	text_2: text = u'XANH L\xc1'
+168.8650 	EXP 	fixationmain: autoDraw = True
+169.6648 	EXP 	fixationmain: autoDraw = False
+169.6814 	EXP 	text_2: autoDraw = True
+170.8813 	DATA 	Keypress: x
+170.9645 	EXP 	text_2: autoDraw = False
+171.8482 	EXP 	New trial (rep=0, index=28): {u'color': u'GREEN', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'n'}
+171.8641 	EXP 	text_2: autoDraw = False
+171.8641 	EXP 	fixationmain: autoDraw = False
+171.8641 	EXP 	text_2: color = u'GREEN (named)'
+171.8641 	EXP 	text_2: text = u'V\xc0NG'
+171.8641 	EXP 	fixationmain: autoDraw = True
+172.6640 	EXP 	fixationmain: autoDraw = False
+172.6806 	EXP 	text_2: autoDraw = True
+173.7639 	DATA 	Keypress: n
+173.9636 	EXP 	text_2: autoDraw = False
+174.8474 	EXP 	New trial (rep=0, index=29): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+174.8635 	EXP 	text_2: autoDraw = False
+174.8635 	EXP 	fixationmain: autoDraw = False
+174.8635 	EXP 	text_2: color = u'RED (named)'
+174.8635 	EXP 	text_2: text = u'V\xc0NG'
+174.8635 	EXP 	fixationmain: autoDraw = True
+175.6632 	EXP 	fixationmain: autoDraw = False
+175.6798 	EXP 	text_2: autoDraw = True
+176.4633 	DATA 	Keypress: z
+176.9629 	EXP 	text_2: autoDraw = False
+177.8466 	EXP 	New trial (rep=0, index=30): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+177.8626 	EXP 	text_2: autoDraw = False
+177.8626 	EXP 	fixationmain: autoDraw = False
+177.8626 	EXP 	text_2: color = u'YELLOW (named)'
+177.8626 	EXP 	text_2: text = u'XANH L\xc1'
+177.8626 	EXP 	fixationmain: autoDraw = True
+178.6624 	EXP 	fixationmain: autoDraw = False
+178.6791 	EXP 	text_2: autoDraw = True
+179.9620 	EXP 	text_2: autoDraw = False
+179.9956 	DATA 	Keypress: x
+180.8458 	EXP 	New trial (rep=0, index=31): {u'color': u'BLUE', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'm'}
+180.8618 	EXP 	text_2: autoDraw = False
+180.8618 	EXP 	fixationmain: autoDraw = False
+180.8618 	EXP 	text_2: color = u'BLUE (named)'
+180.8618 	EXP 	text_2: text = u'V\xc0NG'
+180.8618 	EXP 	fixationmain: autoDraw = True
+181.6616 	EXP 	fixationmain: autoDraw = False
+181.6783 	EXP 	text_2: autoDraw = True
+182.5116 	DATA 	Keypress: m
+182.9613 	EXP 	text_2: autoDraw = False
+183.8451 	EXP 	New trial (rep=0, index=32): {u'color': u'BLUE', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'm'}
+183.8610 	EXP 	text_2: autoDraw = False
+183.8610 	EXP 	fixationmain: autoDraw = False
+183.8610 	EXP 	text_2: color = u'BLUE (named)'
+183.8610 	EXP 	text_2: text = u'\u0110\u1ece'
+183.8610 	EXP 	fixationmain: autoDraw = True
+184.6609 	EXP 	fixationmain: autoDraw = False
+184.6775 	EXP 	text_2: autoDraw = True
+185.3610 	DATA 	Keypress: m
+185.9604 	EXP 	text_2: autoDraw = False
+186.8442 	EXP 	New trial (rep=0, index=33): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+186.8603 	EXP 	text_2: autoDraw = False
+186.8603 	EXP 	fixationmain: autoDraw = False
+186.8603 	EXP 	text_2: color = u'YELLOW (named)'
+186.8603 	EXP 	text_2: text = u'XANH L\xc1'
+186.8603 	EXP 	fixationmain: autoDraw = True
+187.6600 	EXP 	fixationmain: autoDraw = False
+187.6767 	EXP 	text_2: autoDraw = True
+188.6767 	DATA 	Keypress: x
+188.9597 	EXP 	text_2: autoDraw = False
+189.8434 	EXP 	New trial (rep=0, index=34): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+189.8594 	EXP 	text_2: autoDraw = False
+189.8594 	EXP 	fixationmain: autoDraw = False
+189.8594 	EXP 	text_2: color = u'GREEN (named)'
+189.8594 	EXP 	text_2: text = u'XANH L\xc1'
+189.8594 	EXP 	fixationmain: autoDraw = True
+190.6593 	EXP 	fixationmain: autoDraw = False
+190.6759 	EXP 	text_2: autoDraw = True
+191.3760 	DATA 	Keypress: n
+191.9590 	EXP 	text_2: autoDraw = False
+192.8426 	EXP 	New trial (rep=0, index=35): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+192.8587 	EXP 	text_2: autoDraw = False
+192.8587 	EXP 	fixationmain: autoDraw = False
+192.8587 	EXP 	text_2: color = u'GREEN (named)'
+192.8587 	EXP 	text_2: text = u'\u0110\u1ece'
+192.8587 	EXP 	fixationmain: autoDraw = True
+193.6584 	EXP 	fixationmain: autoDraw = False
+193.6752 	EXP 	text_2: autoDraw = True
+194.3418 	DATA 	Keypress: n
+194.9581 	EXP 	text_2: autoDraw = False
+195.8418 	EXP 	New trial (rep=0, index=36): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+195.8578 	EXP 	text_2: autoDraw = False
+195.8578 	EXP 	fixationmain: autoDraw = False
+195.8578 	EXP 	text_2: color = u'BLUE (named)'
+195.8578 	EXP 	text_2: text = u'XANH L\xc1'
+195.8578 	EXP 	fixationmain: autoDraw = True
+196.6576 	EXP 	fixationmain: autoDraw = False
+196.6743 	EXP 	text_2: autoDraw = True
+197.3578 	DATA 	Keypress: m
+197.9573 	EXP 	text_2: autoDraw = False
+198.8412 	EXP 	New trial (rep=0, index=37): {u'color': u'BLUE', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'm'}
+198.8571 	EXP 	text_2: autoDraw = False
+198.8571 	EXP 	fixationmain: autoDraw = False
+198.8571 	EXP 	text_2: color = u'BLUE (named)'
+198.8571 	EXP 	text_2: text = u'V\xc0NG'
+198.8571 	EXP 	fixationmain: autoDraw = True
+199.6568 	EXP 	fixationmain: autoDraw = False
+199.6736 	EXP 	text_2: autoDraw = True
+200.2568 	DATA 	Keypress: m
+200.9565 	EXP 	text_2: autoDraw = False
+201.8404 	EXP 	New trial (rep=0, index=38): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+201.8563 	EXP 	text_2: autoDraw = False
+201.8563 	EXP 	fixationmain: autoDraw = False
+201.8563 	EXP 	text_2: color = u'YELLOW (named)'
+201.8563 	EXP 	text_2: text = u'XANH L\xc1'
+201.8563 	EXP 	fixationmain: autoDraw = True
+202.6560 	EXP 	fixationmain: autoDraw = False
+202.6727 	EXP 	text_2: autoDraw = True
+203.5893 	DATA 	Keypress: x
+203.9557 	EXP 	text_2: autoDraw = False
+204.8395 	EXP 	New trial (rep=0, index=39): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+204.8555 	EXP 	text_2: autoDraw = False
+204.8555 	EXP 	fixationmain: autoDraw = False
+204.8555 	EXP 	text_2: color = u'RED (named)'
+204.8555 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+204.8555 	EXP 	fixationmain: autoDraw = True
+205.6553 	EXP 	fixationmain: autoDraw = False
+205.6719 	EXP 	text_2: autoDraw = True
+206.9053 	DATA 	Keypress: z
+206.9549 	EXP 	text_2: autoDraw = False
+207.8547 	EXP 	text_2: autoDraw = False
+207.8547 	EXP 	fixationmain: autoDraw = False
+207.8547 	EXP 	text_6: autoDraw = True
+207.8547 	EXP 	text_7: autoDraw = True
+267.8524 	EXP 	Imported Stroopmain-short-con-10event x 4.xlsx as conditions, 40 conditions, 4 params
+267.8528 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+267.8537 	EXP 	New trial (rep=0, index=0): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+267.8722 	EXP 	text_6: autoDraw = False
+267.8722 	EXP 	text_7: autoDraw = False
+267.8722 	EXP 	text_6: autoDraw = False
+267.8722 	EXP 	text_7: autoDraw = False
+267.8722 	EXP 	text_2: color = u'BLUE (named)'
+267.8722 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+267.8722 	EXP 	fixationmain: autoDraw = True
+268.6719 	EXP 	text_2: autoDraw = True
+268.6719 	EXP 	fixationmain: autoDraw = False
+269.8718 	DATA 	Keypress: m
+269.9716 	EXP 	text_2: autoDraw = False
+270.8555 	EXP 	New trial (rep=0, index=1): {u'color': u'RED', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'z'}
+270.8714 	EXP 	text_2: autoDraw = False
+270.8714 	EXP 	fixationmain: autoDraw = False
+270.8714 	EXP 	text_2: color = u'RED (named)'
+270.8714 	EXP 	text_2: text = u'XANH L\xc1'
+270.8714 	EXP 	fixationmain: autoDraw = True
+271.6712 	EXP 	fixationmain: autoDraw = False
+271.6878 	EXP 	text_2: autoDraw = True
+272.5378 	DATA 	Keypress: z
+272.9708 	EXP 	text_2: autoDraw = False
+273.8545 	EXP 	New trial (rep=0, index=2): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+273.8706 	EXP 	text_2: autoDraw = False
+273.8706 	EXP 	fixationmain: autoDraw = False
+273.8706 	EXP 	text_2: color = u'RED (named)'
+273.8706 	EXP 	text_2: text = u'\u0110\u1ece'
+273.8706 	EXP 	fixationmain: autoDraw = True
+274.6703 	EXP 	fixationmain: autoDraw = False
+274.6871 	EXP 	text_2: autoDraw = True
+275.3038 	DATA 	Keypress: z
+275.9700 	EXP 	text_2: autoDraw = False
+276.8538 	EXP 	New trial (rep=0, index=3): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+276.8698 	EXP 	text_2: autoDraw = False
+276.8698 	EXP 	fixationmain: autoDraw = False
+276.8698 	EXP 	text_2: color = u'BLUE (named)'
+276.8698 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+276.8698 	EXP 	fixationmain: autoDraw = True
+277.6696 	EXP 	fixationmain: autoDraw = False
+277.6862 	EXP 	text_2: autoDraw = True
+278.4695 	DATA 	Keypress: m
+278.9692 	EXP 	text_2: autoDraw = False
+279.8529 	EXP 	New trial (rep=0, index=4): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+279.8690 	EXP 	text_2: autoDraw = False
+279.8690 	EXP 	fixationmain: autoDraw = False
+279.8690 	EXP 	text_2: color = u'GREEN (named)'
+279.8690 	EXP 	text_2: text = u'XANH L\xc1'
+279.8690 	EXP 	fixationmain: autoDraw = True
+280.6688 	EXP 	fixationmain: autoDraw = False
+280.6855 	EXP 	text_2: autoDraw = True
+281.2522 	DATA 	Keypress: n
+281.9684 	EXP 	text_2: autoDraw = False
+282.8521 	EXP 	New trial (rep=0, index=5): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+282.8682 	EXP 	text_2: autoDraw = False
+282.8682 	EXP 	fixationmain: autoDraw = False
+282.8682 	EXP 	text_2: color = u'RED (named)'
+282.8682 	EXP 	text_2: text = u'\u0110\u1ece'
+282.8682 	EXP 	fixationmain: autoDraw = True
+283.6680 	EXP 	fixationmain: autoDraw = False
+283.6846 	EXP 	text_2: autoDraw = True
+284.2015 	DATA 	Keypress: z
+284.9677 	EXP 	text_2: autoDraw = False
+285.8514 	EXP 	New trial (rep=0, index=6): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+285.8674 	EXP 	text_2: autoDraw = False
+285.8674 	EXP 	fixationmain: autoDraw = False
+285.8674 	EXP 	text_2: color = u'RED (named)'
+285.8674 	EXP 	text_2: text = u'\u0110\u1ece'
+285.8674 	EXP 	fixationmain: autoDraw = True
+286.6672 	EXP 	fixationmain: autoDraw = False
+286.6839 	EXP 	text_2: autoDraw = True
+287.2839 	DATA 	Keypress: z
+287.9669 	EXP 	text_2: autoDraw = False
+288.8506 	EXP 	New trial (rep=0, index=7): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+288.8666 	EXP 	text_2: autoDraw = False
+288.8666 	EXP 	fixationmain: autoDraw = False
+288.8666 	EXP 	text_2: color = u'RED (named)'
+288.8666 	EXP 	text_2: text = u'\u0110\u1ece'
+288.8666 	EXP 	fixationmain: autoDraw = True
+289.6664 	EXP 	fixationmain: autoDraw = False
+289.6831 	EXP 	text_2: autoDraw = True
+290.1831 	DATA 	Keypress: z
+290.9660 	EXP 	text_2: autoDraw = False
+291.8499 	EXP 	New trial (rep=0, index=8): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+291.8658 	EXP 	text_2: autoDraw = False
+291.8658 	EXP 	fixationmain: autoDraw = False
+291.8658 	EXP 	text_2: color = u'GREEN (named)'
+291.8658 	EXP 	text_2: text = u'XANH L\xc1'
+291.8658 	EXP 	fixationmain: autoDraw = True
+292.6656 	EXP 	fixationmain: autoDraw = False
+292.6823 	EXP 	text_2: autoDraw = True
+293.2656 	DATA 	Keypress: n
+293.9652 	EXP 	text_2: autoDraw = False
+294.8490 	EXP 	New trial (rep=0, index=9): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+294.8650 	EXP 	text_2: autoDraw = False
+294.8650 	EXP 	fixationmain: autoDraw = False
+294.8650 	EXP 	text_2: color = u'BLUE (named)'
+294.8650 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+294.8650 	EXP 	fixationmain: autoDraw = True
+295.6648 	EXP 	fixationmain: autoDraw = False
+295.6815 	EXP 	text_2: autoDraw = True
+296.8480 	DATA 	Keypress: m
+296.9645 	EXP 	text_2: autoDraw = False
+297.8483 	EXP 	New trial (rep=0, index=10): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+297.8642 	EXP 	text_2: autoDraw = False
+297.8642 	EXP 	fixationmain: autoDraw = False
+297.8642 	EXP 	text_2: color = u'GREEN (named)'
+297.8642 	EXP 	text_2: text = u'XANH L\xc1'
+297.8642 	EXP 	fixationmain: autoDraw = True
+298.6641 	EXP 	fixationmain: autoDraw = False
+298.6807 	EXP 	text_2: autoDraw = True
+299.4474 	DATA 	Keypress: n
+299.9637 	EXP 	text_2: autoDraw = False
+300.8474 	EXP 	New trial (rep=0, index=11): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+300.8635 	EXP 	text_2: autoDraw = False
+300.8635 	EXP 	fixationmain: autoDraw = False
+300.8635 	EXP 	text_2: color = u'BLUE (named)'
+300.8635 	EXP 	text_2: text = u'XANH L\xc1'
+300.8635 	EXP 	fixationmain: autoDraw = True
+301.6632 	EXP 	fixationmain: autoDraw = False
+301.6799 	EXP 	text_2: autoDraw = True
+302.5966 	DATA 	Keypress: m
+302.9629 	EXP 	text_2: autoDraw = False
+303.8467 	EXP 	New trial (rep=0, index=12): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+303.8626 	EXP 	text_2: autoDraw = False
+303.8626 	EXP 	fixationmain: autoDraw = False
+303.8626 	EXP 	text_2: color = u'GREEN (named)'
+303.8626 	EXP 	text_2: text = u'XANH L\xc1'
+303.8626 	EXP 	fixationmain: autoDraw = True
+304.6625 	EXP 	fixationmain: autoDraw = False
+304.6791 	EXP 	text_2: autoDraw = True
+305.3624 	DATA 	Keypress: n
+305.9621 	EXP 	text_2: autoDraw = False
+306.8458 	EXP 	New trial (rep=0, index=13): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+306.8618 	EXP 	text_2: autoDraw = False
+306.8618 	EXP 	fixationmain: autoDraw = False
+306.8618 	EXP 	text_2: color = u'BLUE (named)'
+306.8618 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+306.8618 	EXP 	fixationmain: autoDraw = True
+307.6616 	EXP 	fixationmain: autoDraw = False
+307.6783 	EXP 	text_2: autoDraw = True
+308.5283 	DATA 	Keypress: m
+308.9614 	EXP 	text_2: autoDraw = False
+309.8451 	EXP 	New trial (rep=0, index=14): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+309.8610 	EXP 	text_2: autoDraw = False
+309.8610 	EXP 	fixationmain: autoDraw = False
+309.8610 	EXP 	text_2: color = u'GREEN (named)'
+309.8610 	EXP 	text_2: text = u'XANH L\xc1'
+309.8610 	EXP 	fixationmain: autoDraw = True
+310.6609 	EXP 	fixationmain: autoDraw = False
+310.6775 	EXP 	text_2: autoDraw = True
+311.5943 	DATA 	Keypress: n
+311.9605 	EXP 	text_2: autoDraw = False
+312.8443 	EXP 	New trial (rep=0, index=15): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+312.8603 	EXP 	text_2: autoDraw = False
+312.8603 	EXP 	fixationmain: autoDraw = False
+312.8603 	EXP 	text_2: color = u'RED (named)'
+312.8603 	EXP 	text_2: text = u'\u0110\u1ece'
+312.8603 	EXP 	fixationmain: autoDraw = True
+313.6600 	EXP 	fixationmain: autoDraw = False
+313.6767 	EXP 	text_2: autoDraw = True
+314.2435 	DATA 	Keypress: z
+314.9597 	EXP 	text_2: autoDraw = False
+315.8435 	EXP 	New trial (rep=0, index=16): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+315.8595 	EXP 	text_2: autoDraw = False
+315.8595 	EXP 	fixationmain: autoDraw = False
+315.8595 	EXP 	text_2: color = u'YELLOW (named)'
+315.8595 	EXP 	text_2: text = u'V\xc0NG'
+315.8595 	EXP 	fixationmain: autoDraw = True
+316.6593 	EXP 	fixationmain: autoDraw = False
+316.6759 	EXP 	text_2: autoDraw = True
+317.2926 	DATA 	Keypress: x
+317.9589 	EXP 	text_2: autoDraw = False
+318.8428 	EXP 	New trial (rep=0, index=17): {u'color': u'GREEN', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'n'}
+318.8754 	EXP 	text_2: autoDraw = False
+318.8754 	EXP 	fixationmain: autoDraw = False
+318.8754 	EXP 	text_2: color = u'GREEN (named)'
+318.8754 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+318.8754 	EXP 	fixationmain: autoDraw = True
+319.6585 	EXP 	fixationmain: autoDraw = False
+319.6752 	EXP 	text_2: autoDraw = True
+320.4918 	DATA 	Keypress: n
+320.9581 	EXP 	text_2: autoDraw = False
+321.8420 	EXP 	New trial (rep=0, index=18): {u'color': u'YELLOW', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'x'}
+321.8579 	EXP 	text_2: autoDraw = False
+321.8579 	EXP 	fixationmain: autoDraw = False
+321.8579 	EXP 	text_2: color = u'YELLOW (named)'
+321.8579 	EXP 	text_2: text = u'\u0110\u1ece'
+321.8579 	EXP 	fixationmain: autoDraw = True
+322.6577 	EXP 	fixationmain: autoDraw = False
+322.6743 	EXP 	text_2: autoDraw = True
+323.5576 	DATA 	Keypress: x
+323.9574 	EXP 	text_2: autoDraw = False
+324.8411 	EXP 	New trial (rep=0, index=19): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+324.8572 	EXP 	text_2: autoDraw = False
+324.8572 	EXP 	fixationmain: autoDraw = False
+324.8572 	EXP 	text_2: color = u'GREEN (named)'
+324.8572 	EXP 	text_2: text = u'XANH L\xc1'
+324.8572 	EXP 	fixationmain: autoDraw = True
+325.6569 	EXP 	fixationmain: autoDraw = False
+325.6736 	EXP 	text_2: autoDraw = True
+326.4235 	DATA 	Keypress: n
+326.9566 	EXP 	text_2: autoDraw = False
+327.8403 	EXP 	New trial (rep=0, index=20): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+327.8563 	EXP 	text_2: autoDraw = False
+327.8563 	EXP 	fixationmain: autoDraw = False
+327.8563 	EXP 	text_2: color = u'RED (named)'
+327.8563 	EXP 	text_2: text = u'\u0110\u1ece'
+327.8563 	EXP 	fixationmain: autoDraw = True
+328.6561 	EXP 	fixationmain: autoDraw = False
+328.6728 	EXP 	text_2: autoDraw = True
+329.2395 	DATA 	Keypress: z
+329.9558 	EXP 	text_2: autoDraw = False
+330.8395 	EXP 	New trial (rep=0, index=21): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+330.8555 	EXP 	text_2: autoDraw = False
+330.8555 	EXP 	fixationmain: autoDraw = False
+330.8555 	EXP 	text_2: color = u'BLUE (named)'
+330.8555 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+330.8555 	EXP 	fixationmain: autoDraw = True
+331.6553 	EXP 	fixationmain: autoDraw = False
+331.6721 	EXP 	text_2: autoDraw = True
+332.4219 	DATA 	Keypress: m
+332.9550 	EXP 	text_2: autoDraw = False
+333.8387 	EXP 	New trial (rep=0, index=22): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+333.8547 	EXP 	text_2: autoDraw = False
+333.8547 	EXP 	fixationmain: autoDraw = False
+333.8547 	EXP 	text_2: color = u'RED (named)'
+333.8547 	EXP 	text_2: text = u'\u0110\u1ece'
+333.8547 	EXP 	fixationmain: autoDraw = True
+334.6545 	EXP 	fixationmain: autoDraw = False
+334.6712 	EXP 	text_2: autoDraw = True
+335.2212 	DATA 	Keypress: z
+335.9542 	EXP 	text_2: autoDraw = False
+336.8380 	EXP 	New trial (rep=0, index=23): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+336.8539 	EXP 	text_2: autoDraw = False
+336.8539 	EXP 	fixationmain: autoDraw = False
+336.8539 	EXP 	text_2: color = u'GREEN (named)'
+336.8539 	EXP 	text_2: text = u'XANH L\xc1'
+336.8539 	EXP 	fixationmain: autoDraw = True
+337.6537 	EXP 	fixationmain: autoDraw = False
+337.6704 	EXP 	text_2: autoDraw = True
+338.3871 	DATA 	Keypress: n
+338.9534 	EXP 	text_2: autoDraw = False
+339.8371 	EXP 	New trial (rep=0, index=24): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+339.8531 	EXP 	text_2: autoDraw = False
+339.8531 	EXP 	fixationmain: autoDraw = False
+339.8531 	EXP 	text_2: color = u'BLUE (named)'
+339.8531 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+339.8531 	EXP 	fixationmain: autoDraw = True
+340.6529 	EXP 	fixationmain: autoDraw = False
+340.6696 	EXP 	text_2: autoDraw = True
+341.5363 	DATA 	Keypress: m
+341.9527 	EXP 	text_2: autoDraw = False
+342.8364 	EXP 	New trial (rep=0, index=25): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+342.8524 	EXP 	text_2: autoDraw = False
+342.8524 	EXP 	fixationmain: autoDraw = False
+342.8524 	EXP 	text_2: color = u'RED (named)'
+342.8524 	EXP 	text_2: text = u'\u0110\u1ece'
+342.8524 	EXP 	fixationmain: autoDraw = True
+343.6522 	EXP 	fixationmain: autoDraw = False
+343.6688 	EXP 	text_2: autoDraw = True
+344.4521 	DATA 	Keypress: z
+344.9518 	EXP 	text_2: autoDraw = False
+345.8355 	EXP 	New trial (rep=0, index=26): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+345.8516 	EXP 	text_2: autoDraw = False
+345.8516 	EXP 	fixationmain: autoDraw = False
+345.8516 	EXP 	text_2: color = u'YELLOW (named)'
+345.8516 	EXP 	text_2: text = u'V\xc0NG'
+345.8516 	EXP 	fixationmain: autoDraw = True
+346.6513 	EXP 	fixationmain: autoDraw = False
+346.6680 	EXP 	text_2: autoDraw = True
+347.4180 	DATA 	Keypress: x
+347.9510 	EXP 	text_2: autoDraw = False
+348.8348 	EXP 	New trial (rep=0, index=27): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+348.8508 	EXP 	text_2: autoDraw = False
+348.8508 	EXP 	fixationmain: autoDraw = False
+348.8508 	EXP 	text_2: color = u'RED (named)'
+348.8508 	EXP 	text_2: text = u'\u0110\u1ece'
+348.8508 	EXP 	fixationmain: autoDraw = True
+349.6505 	EXP 	fixationmain: autoDraw = False
+349.6673 	EXP 	text_2: autoDraw = True
+350.2673 	DATA 	Keypress: z
+350.9502 	EXP 	text_2: autoDraw = False
+351.8339 	EXP 	New trial (rep=0, index=28): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+351.8500 	EXP 	text_2: autoDraw = False
+351.8500 	EXP 	fixationmain: autoDraw = False
+351.8500 	EXP 	text_2: color = u'GREEN (named)'
+351.8500 	EXP 	text_2: text = u'XANH L\xc1'
+351.8500 	EXP 	fixationmain: autoDraw = True
+352.6498 	EXP 	fixationmain: autoDraw = False
+352.6664 	EXP 	text_2: autoDraw = True
+353.3664 	DATA 	Keypress: n
+353.9495 	EXP 	text_2: autoDraw = False
+354.8332 	EXP 	New trial (rep=0, index=29): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+354.8492 	EXP 	text_2: autoDraw = False
+354.8492 	EXP 	fixationmain: autoDraw = False
+354.8492 	EXP 	text_2: color = u'YELLOW (named)'
+354.8492 	EXP 	text_2: text = u'V\xc0NG'
+354.8492 	EXP 	fixationmain: autoDraw = True
+355.6490 	EXP 	fixationmain: autoDraw = False
+355.6656 	EXP 	text_2: autoDraw = True
+356.3823 	DATA 	Keypress: x
+356.9486 	EXP 	text_2: autoDraw = False
+357.8324 	EXP 	New trial (rep=0, index=30): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+357.8484 	EXP 	text_2: autoDraw = False
+357.8484 	EXP 	fixationmain: autoDraw = False
+357.8484 	EXP 	text_2: color = u'BLUE (named)'
+357.8484 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+357.8484 	EXP 	fixationmain: autoDraw = True
+358.6482 	EXP 	fixationmain: autoDraw = False
+358.6648 	EXP 	text_2: autoDraw = True
+359.8481 	DATA 	Keypress: m
+359.9479 	EXP 	text_2: autoDraw = False
+360.8316 	EXP 	New trial (rep=0, index=31): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'z'}
+360.8476 	EXP 	text_2: autoDraw = False
+360.8476 	EXP 	fixationmain: autoDraw = False
+360.8476 	EXP 	text_2: color = u'YELLOW (named)'
+360.8476 	EXP 	text_2: text = u'V\xc0NG'
+360.8476 	EXP 	fixationmain: autoDraw = True
+361.6474 	EXP 	fixationmain: autoDraw = False
+361.6640 	EXP 	text_2: autoDraw = True
+362.5140 	DATA 	Keypress: x
+362.9470 	EXP 	text_2: autoDraw = False
+363.8308 	EXP 	New trial (rep=0, index=32): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+363.8468 	EXP 	text_2: autoDraw = False
+363.8468 	EXP 	fixationmain: autoDraw = False
+363.8468 	EXP 	text_2: color = u'BLUE (named)'
+363.8468 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+363.8468 	EXP 	fixationmain: autoDraw = True
+364.6466 	EXP 	fixationmain: autoDraw = False
+364.6633 	EXP 	text_2: autoDraw = True
+365.3799 	DATA 	Keypress: m
+365.9462 	EXP 	text_2: autoDraw = False
+366.8301 	EXP 	New trial (rep=0, index=33): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+366.8460 	EXP 	text_2: autoDraw = False
+366.8460 	EXP 	fixationmain: autoDraw = False
+366.8460 	EXP 	text_2: color = u'YELLOW (named)'
+366.8460 	EXP 	text_2: text = u'V\xc0NG'
+366.8460 	EXP 	fixationmain: autoDraw = True
+367.6458 	EXP 	fixationmain: autoDraw = False
+367.6625 	EXP 	text_2: autoDraw = True
+368.4125 	DATA 	Keypress: x
+368.9455 	EXP 	text_2: autoDraw = False
+369.8292 	EXP 	New trial (rep=0, index=34): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+369.8453 	EXP 	text_2: autoDraw = False
+369.8453 	EXP 	fixationmain: autoDraw = False
+369.8453 	EXP 	text_2: color = u'YELLOW (named)'
+369.8453 	EXP 	text_2: text = u'V\xc0NG'
+369.8453 	EXP 	fixationmain: autoDraw = True
+370.6450 	EXP 	fixationmain: autoDraw = False
+370.6616 	EXP 	text_2: autoDraw = True
+371.1451 	DATA 	Keypress: x
+371.9447 	EXP 	text_2: autoDraw = False
+372.8284 	EXP 	New trial (rep=0, index=35): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+372.8444 	EXP 	text_2: autoDraw = False
+372.8444 	EXP 	fixationmain: autoDraw = False
+372.8444 	EXP 	text_2: color = u'GREEN (named)'
+372.8444 	EXP 	text_2: text = u'XANH L\xc1'
+372.8444 	EXP 	fixationmain: autoDraw = True
+373.6443 	EXP 	fixationmain: autoDraw = False
+373.6609 	EXP 	text_2: autoDraw = True
+374.4275 	DATA 	Keypress: n
+374.9440 	EXP 	text_2: autoDraw = False
+375.8276 	EXP 	New trial (rep=0, index=36): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+375.8436 	EXP 	text_2: autoDraw = False
+375.8436 	EXP 	fixationmain: autoDraw = False
+375.8436 	EXP 	text_2: color = u'BLUE (named)'
+375.8436 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+375.8436 	EXP 	fixationmain: autoDraw = True
+376.6434 	EXP 	fixationmain: autoDraw = False
+376.6601 	EXP 	text_2: autoDraw = True
+377.2102 	DATA 	Keypress: m
+377.9431 	EXP 	text_2: autoDraw = False
+378.8268 	EXP 	New trial (rep=0, index=37): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+378.8428 	EXP 	text_2: autoDraw = False
+378.8428 	EXP 	fixationmain: autoDraw = False
+378.8428 	EXP 	text_2: color = u'YELLOW (named)'
+378.8428 	EXP 	text_2: text = u'V\xc0NG'
+378.8428 	EXP 	fixationmain: autoDraw = True
+379.6426 	EXP 	fixationmain: autoDraw = False
+379.6593 	EXP 	text_2: autoDraw = True
+380.9423 	EXP 	text_2: autoDraw = False
+381.3258 	DATA 	Keypress: x
+381.8262 	EXP 	New trial (rep=0, index=38): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+381.8420 	EXP 	text_2: autoDraw = False
+381.8420 	EXP 	fixationmain: autoDraw = False
+381.8420 	EXP 	text_2: color = u'YELLOW (named)'
+381.8420 	EXP 	text_2: text = u'V\xc0NG'
+381.8420 	EXP 	fixationmain: autoDraw = True
+382.6418 	EXP 	fixationmain: autoDraw = False
+382.6586 	EXP 	text_2: autoDraw = True
+383.1752 	DATA 	Keypress: x
+383.9415 	EXP 	text_2: autoDraw = False
+384.8252 	EXP 	New trial (rep=0, index=39): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+384.8413 	EXP 	text_2: autoDraw = False
+384.8413 	EXP 	fixationmain: autoDraw = False
+384.8413 	EXP 	text_2: color = u'BLUE (named)'
+384.8413 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+384.8413 	EXP 	fixationmain: autoDraw = True
+385.6410 	EXP 	fixationmain: autoDraw = False
+385.6577 	EXP 	text_2: autoDraw = True
+386.5578 	DATA 	Keypress: m
+386.9409 	EXP 	text_2: autoDraw = False
+387.8405 	EXP 	text_2: autoDraw = False
+387.8405 	EXP 	fixationmain: autoDraw = False
+387.8405 	EXP 	text_8: autoDraw = True
+387.8405 	EXP 	text_9: autoDraw = True
+447.8401 	EXP 	Imported Stroopmain-short-in-10event x 4.xlsx as conditions, 40 conditions, 4 params
+447.8406 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+447.8417 	EXP 	New trial (rep=0, index=0): {u'color': u'RED', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+447.8579 	EXP 	text_8: autoDraw = False
+447.8579 	EXP 	text_9: autoDraw = False
+447.8579 	EXP 	text_8: autoDraw = False
+447.8579 	EXP 	text_9: autoDraw = False
+447.8579 	EXP 	text_2: color = u'RED (named)'
+447.8579 	EXP 	text_2: text = u'\u0110\u1ece'
+447.8579 	EXP 	fixationmain: autoDraw = True
+448.6578 	EXP 	fixationmain: autoDraw = False
+448.6744 	EXP 	text_2: autoDraw = True
+449.2411 	DATA 	Keypress: z
+449.9574 	EXP 	text_2: autoDraw = False
+450.8413 	EXP 	New trial (rep=0, index=1): {u'color': u'BLUE', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'm'}
+450.8572 	EXP 	text_2: autoDraw = False
+450.8572 	EXP 	fixationmain: autoDraw = False
+450.8572 	EXP 	text_2: color = u'BLUE (named)'
+450.8572 	EXP 	text_2: text = u'V\xc0NG'
+450.8572 	EXP 	fixationmain: autoDraw = True
+451.6569 	EXP 	fixationmain: autoDraw = False
+451.6736 	EXP 	text_2: autoDraw = True
+452.6237 	DATA 	Keypress: m
+452.9566 	EXP 	text_2: autoDraw = False
+453.8404 	EXP 	New trial (rep=0, index=2): {u'color': u'GREEN', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'n'}
+453.8564 	EXP 	text_2: autoDraw = False
+453.8564 	EXP 	fixationmain: autoDraw = False
+453.8564 	EXP 	text_2: color = u'GREEN (named)'
+453.8564 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+453.8564 	EXP 	fixationmain: autoDraw = True
+454.6562 	EXP 	fixationmain: autoDraw = False
+454.6728 	EXP 	text_2: autoDraw = True
+455.4401 	DATA 	Keypress: n
+455.9558 	EXP 	text_2: autoDraw = False
+456.8395 	EXP 	New trial (rep=0, index=3): {u'color': u'GREEN', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'n'}
+456.8556 	EXP 	text_2: autoDraw = False
+456.8556 	EXP 	fixationmain: autoDraw = False
+456.8556 	EXP 	text_2: color = u'GREEN (named)'
+456.8556 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+456.8556 	EXP 	fixationmain: autoDraw = True
+457.6553 	EXP 	fixationmain: autoDraw = False
+457.6721 	EXP 	text_2: autoDraw = True
+458.2720 	DATA 	Keypress: n
+458.9550 	EXP 	text_2: autoDraw = False
+459.8388 	EXP 	New trial (rep=0, index=4): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+459.8548 	EXP 	text_2: autoDraw = False
+459.8548 	EXP 	fixationmain: autoDraw = False
+459.8548 	EXP 	text_2: color = u'YELLOW (named)'
+459.8548 	EXP 	text_2: text = u'XANH L\xc1'
+459.8548 	EXP 	fixationmain: autoDraw = True
+460.6546 	EXP 	fixationmain: autoDraw = False
+460.6712 	EXP 	text_2: autoDraw = True
+461.2713 	DATA 	Keypress: x
+461.9542 	EXP 	text_2: autoDraw = False
+462.8380 	EXP 	New trial (rep=0, index=5): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+462.8540 	EXP 	text_2: autoDraw = False
+462.8540 	EXP 	fixationmain: autoDraw = False
+462.8540 	EXP 	text_2: color = u'YELLOW (named)'
+462.8540 	EXP 	text_2: text = u'XANH L\xc1'
+462.8540 	EXP 	fixationmain: autoDraw = True
+463.6538 	EXP 	fixationmain: autoDraw = False
+463.6705 	EXP 	text_2: autoDraw = True
+464.3538 	DATA 	Keypress: x
+464.9535 	EXP 	text_2: autoDraw = False
+465.8372 	EXP 	New trial (rep=0, index=6): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+465.8532 	EXP 	text_2: autoDraw = False
+465.8532 	EXP 	fixationmain: autoDraw = False
+465.8532 	EXP 	text_2: color = u'BLUE (named)'
+465.8532 	EXP 	text_2: text = u'XANH L\xc1'
+465.8532 	EXP 	fixationmain: autoDraw = True
+466.6530 	EXP 	fixationmain: autoDraw = False
+466.6696 	EXP 	text_2: autoDraw = True
+467.9527 	EXP 	text_2: autoDraw = False
+468.1028 	DATA 	Keypress: m
+468.8363 	EXP 	New trial (rep=0, index=7): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+468.8524 	EXP 	text_2: autoDraw = False
+468.8524 	EXP 	fixationmain: autoDraw = False
+468.8524 	EXP 	text_2: color = u'YELLOW (named)'
+468.8524 	EXP 	text_2: text = u'XANH L\xc1'
+468.8524 	EXP 	fixationmain: autoDraw = True
+469.6522 	EXP 	fixationmain: autoDraw = False
+469.6689 	EXP 	text_2: autoDraw = True
+470.3189 	DATA 	Keypress: x
+470.9518 	EXP 	text_2: autoDraw = False
+471.8356 	EXP 	New trial (rep=0, index=8): {u'color': u'BLUE', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'm'}
+471.8516 	EXP 	text_2: autoDraw = False
+471.8516 	EXP 	fixationmain: autoDraw = False
+471.8516 	EXP 	text_2: color = u'BLUE (named)'
+471.8516 	EXP 	text_2: text = u'\u0110\u1ece'
+471.8516 	EXP 	fixationmain: autoDraw = True
+472.6514 	EXP 	fixationmain: autoDraw = False
+472.6680 	EXP 	text_2: autoDraw = True
+473.5013 	DATA 	Keypress: m
+473.9510 	EXP 	text_2: autoDraw = False
+474.8349 	EXP 	New trial (rep=0, index=9): {u'color': u'BLUE', u'congruent': 1, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'm'}
+474.8508 	EXP 	text_2: autoDraw = False
+474.8508 	EXP 	fixationmain: autoDraw = False
+474.8508 	EXP 	text_2: color = u'BLUE (named)'
+474.8508 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+474.8508 	EXP 	fixationmain: autoDraw = True
+475.6506 	EXP 	fixationmain: autoDraw = False
+475.6673 	EXP 	text_2: autoDraw = True
+476.1340 	DATA 	Keypress: m
+476.9503 	EXP 	text_2: autoDraw = False
+477.8340 	EXP 	New trial (rep=0, index=10): {u'color': u'RED', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'z'}
+477.8500 	EXP 	text_2: autoDraw = False
+477.8500 	EXP 	fixationmain: autoDraw = False
+477.8500 	EXP 	text_2: color = u'RED (named)'
+477.8500 	EXP 	text_2: text = u'XANH L\xc1'
+477.8500 	EXP 	fixationmain: autoDraw = True
+478.6498 	EXP 	fixationmain: autoDraw = False
+478.6665 	EXP 	text_2: autoDraw = True
+479.3499 	DATA 	Keypress: z
+479.9495 	EXP 	text_2: autoDraw = False
+480.8333 	EXP 	New trial (rep=0, index=11): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'x'}
+480.8492 	EXP 	text_2: autoDraw = False
+480.8492 	EXP 	fixationmain: autoDraw = False
+480.8492 	EXP 	text_2: color = u'YELLOW (named)'
+480.8492 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+480.8492 	EXP 	fixationmain: autoDraw = True
+481.6491 	EXP 	fixationmain: autoDraw = False
+481.6657 	EXP 	text_2: autoDraw = True
+482.2823 	DATA 	Keypress: x
+482.9487 	EXP 	text_2: autoDraw = False
+483.8324 	EXP 	New trial (rep=0, index=12): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+483.8485 	EXP 	text_2: autoDraw = False
+483.8485 	EXP 	fixationmain: autoDraw = False
+483.8485 	EXP 	text_2: color = u'BLUE (named)'
+483.8485 	EXP 	text_2: text = u'XANH L\xc1'
+483.8485 	EXP 	fixationmain: autoDraw = True
+484.6482 	EXP 	fixationmain: autoDraw = False
+484.6649 	EXP 	text_2: autoDraw = True
+485.4315 	DATA 	Keypress: m
+485.9479 	EXP 	text_2: autoDraw = False
+486.8318 	EXP 	New trial (rep=0, index=13): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+486.8477 	EXP 	text_2: autoDraw = False
+486.8477 	EXP 	fixationmain: autoDraw = False
+486.8477 	EXP 	text_2: color = u'RED (named)'
+486.8477 	EXP 	text_2: text = u'V\xc0NG'
+486.8477 	EXP 	fixationmain: autoDraw = True
+487.6474 	EXP 	fixationmain: autoDraw = False
+487.6641 	EXP 	text_2: autoDraw = True
+488.6474 	DATA 	Keypress: z
+488.9471 	EXP 	text_2: autoDraw = False
+489.8308 	EXP 	New trial (rep=0, index=14): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+489.8469 	EXP 	text_2: autoDraw = False
+489.8469 	EXP 	fixationmain: autoDraw = False
+489.8469 	EXP 	text_2: color = u'RED (named)'
+489.8469 	EXP 	text_2: text = u'V\xc0NG'
+489.8469 	EXP 	fixationmain: autoDraw = True
+490.6466 	EXP 	fixationmain: autoDraw = False
+490.6633 	EXP 	text_2: autoDraw = True
+491.1967 	DATA 	Keypress: z
+491.9464 	EXP 	text_2: autoDraw = False
+492.8301 	EXP 	New trial (rep=0, index=15): {u'color': u'BLUE', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'm'}
+492.8461 	EXP 	text_2: autoDraw = False
+492.8461 	EXP 	fixationmain: autoDraw = False
+492.8461 	EXP 	text_2: color = u'BLUE (named)'
+492.8461 	EXP 	text_2: text = u'\u0110\u1ece'
+492.8461 	EXP 	fixationmain: autoDraw = True
+493.6459 	EXP 	fixationmain: autoDraw = False
+493.6625 	EXP 	text_2: autoDraw = True
+494.8457 	DATA 	Keypress: m
+494.9455 	EXP 	text_2: autoDraw = False
+495.8292 	EXP 	New trial (rep=0, index=16): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+495.8453 	EXP 	text_2: autoDraw = False
+495.8453 	EXP 	fixationmain: autoDraw = False
+495.8453 	EXP 	text_2: color = u'YELLOW (named)'
+495.8453 	EXP 	text_2: text = u'XANH L\xc1'
+495.8453 	EXP 	fixationmain: autoDraw = True
+496.6450 	EXP 	fixationmain: autoDraw = False
+496.6617 	EXP 	text_2: autoDraw = True
+497.4784 	DATA 	Keypress: x
+497.9447 	EXP 	text_2: autoDraw = False
+498.8284 	EXP 	New trial (rep=0, index=17): {u'color': u'RED', u'congruent': 1, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+498.8445 	EXP 	text_2: autoDraw = False
+498.8445 	EXP 	fixationmain: autoDraw = False
+498.8445 	EXP 	text_2: color = u'RED (named)'
+498.8445 	EXP 	text_2: text = u'\u0110\u1ece'
+498.8445 	EXP 	fixationmain: autoDraw = True
+499.6443 	EXP 	fixationmain: autoDraw = False
+499.6609 	EXP 	text_2: autoDraw = True
+500.5109 	DATA 	Keypress: z
+500.9439 	EXP 	text_2: autoDraw = False
+501.8276 	EXP 	New trial (rep=0, index=18): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+501.8437 	EXP 	text_2: autoDraw = False
+501.8437 	EXP 	fixationmain: autoDraw = False
+501.8437 	EXP 	text_2: color = u'GREEN (named)'
+501.8437 	EXP 	text_2: text = u'\u0110\u1ece'
+501.8437 	EXP 	fixationmain: autoDraw = True
+502.6435 	EXP 	fixationmain: autoDraw = False
+502.6602 	EXP 	text_2: autoDraw = True
+503.2769 	DATA 	Keypress: n
+503.9431 	EXP 	text_2: autoDraw = False
+504.8270 	EXP 	New trial (rep=0, index=19): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+504.8429 	EXP 	text_2: autoDraw = False
+504.8429 	EXP 	fixationmain: autoDraw = False
+504.8429 	EXP 	text_2: color = u'GREEN (named)'
+504.8429 	EXP 	text_2: text = u'\u0110\u1ece'
+504.8429 	EXP 	fixationmain: autoDraw = True
+505.6427 	EXP 	fixationmain: autoDraw = False
+505.6593 	EXP 	text_2: autoDraw = True
+506.1427 	DATA 	Keypress: n
+506.9423 	EXP 	text_2: autoDraw = False
+507.8261 	EXP 	New trial (rep=0, index=20): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+507.8421 	EXP 	text_2: autoDraw = False
+507.8421 	EXP 	fixationmain: autoDraw = False
+507.8421 	EXP 	text_2: color = u'BLUE (named)'
+507.8421 	EXP 	text_2: text = u'XANH L\xc1'
+507.8421 	EXP 	fixationmain: autoDraw = True
+508.6419 	EXP 	fixationmain: autoDraw = False
+508.6586 	EXP 	text_2: autoDraw = True
+509.6751 	DATA 	Keypress: m
+509.9416 	EXP 	text_2: autoDraw = False
+510.8253 	EXP 	New trial (rep=0, index=21): {u'color': u'GREEN', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'n'}
+510.8413 	EXP 	text_2: autoDraw = False
+510.8413 	EXP 	fixationmain: autoDraw = False
+510.8413 	EXP 	text_2: color = u'GREEN (named)'
+510.8413 	EXP 	text_2: text = u'V\xc0NG'
+510.8413 	EXP 	fixationmain: autoDraw = True
+511.6411 	EXP 	fixationmain: autoDraw = False
+511.6577 	EXP 	text_2: autoDraw = True
+512.6078 	DATA 	Keypress: n
+512.9408 	EXP 	text_2: autoDraw = False
+513.8245 	EXP 	New trial (rep=0, index=22): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+513.8405 	EXP 	text_2: autoDraw = False
+513.8405 	EXP 	fixationmain: autoDraw = False
+513.8405 	EXP 	text_2: color = u'RED (named)'
+513.8405 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+513.8405 	EXP 	fixationmain: autoDraw = True
+514.6404 	EXP 	fixationmain: autoDraw = False
+514.6570 	EXP 	text_2: autoDraw = True
+515.3070 	DATA 	Keypress: z
+515.9400 	EXP 	text_2: autoDraw = False
+516.8237 	EXP 	New trial (rep=0, index=23): {u'color': u'BLUE', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'm'}
+516.8397 	EXP 	text_2: autoDraw = False
+516.8397 	EXP 	fixationmain: autoDraw = False
+516.8397 	EXP 	text_2: color = u'BLUE (named)'
+516.8397 	EXP 	text_2: text = u'V\xc0NG'
+516.8397 	EXP 	fixationmain: autoDraw = True
+517.6395 	EXP 	fixationmain: autoDraw = False
+517.6562 	EXP 	text_2: autoDraw = True
+518.4228 	DATA 	Keypress: m
+518.9392 	EXP 	text_2: autoDraw = False
+519.8230 	EXP 	New trial (rep=0, index=24): {u'color': u'YELLOW', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'z'}
+519.8389 	EXP 	text_2: autoDraw = False
+519.8389 	EXP 	fixationmain: autoDraw = False
+519.8389 	EXP 	text_2: color = u'YELLOW (named)'
+519.8389 	EXP 	text_2: text = u'\u0110\u1ece'
+519.8389 	EXP 	fixationmain: autoDraw = True
+520.6387 	EXP 	fixationmain: autoDraw = False
+520.6554 	EXP 	text_2: autoDraw = True
+521.4553 	DATA 	Keypress: x
+521.9384 	EXP 	text_2: autoDraw = False
+522.8221 	EXP 	New trial (rep=0, index=25): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+522.8381 	EXP 	text_2: autoDraw = False
+522.8381 	EXP 	fixationmain: autoDraw = False
+522.8381 	EXP 	text_2: color = u'GREEN (named)'
+522.8381 	EXP 	text_2: text = u'\u0110\u1ece'
+522.8381 	EXP 	fixationmain: autoDraw = True
+523.6379 	EXP 	fixationmain: autoDraw = False
+523.6546 	EXP 	text_2: autoDraw = True
+524.7378 	DATA 	Keypress: n
+524.9376 	EXP 	text_2: autoDraw = False
+525.8214 	EXP 	New trial (rep=0, index=26): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'x'}
+525.8373 	EXP 	text_2: autoDraw = False
+525.8373 	EXP 	fixationmain: autoDraw = False
+525.8373 	EXP 	text_2: color = u'YELLOW (named)'
+525.8373 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+525.8373 	EXP 	fixationmain: autoDraw = True
+526.6372 	EXP 	fixationmain: autoDraw = False
+526.6538 	EXP 	text_2: autoDraw = True
+527.3872 	DATA 	Keypress: x
+527.9368 	EXP 	text_2: autoDraw = False
+528.8205 	EXP 	New trial (rep=0, index=27): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'n'}
+528.8366 	EXP 	text_2: autoDraw = False
+528.8366 	EXP 	fixationmain: autoDraw = False
+528.8366 	EXP 	text_2: color = u'GREEN (named)'
+528.8366 	EXP 	text_2: text = u'\u0110\u1ece'
+528.8366 	EXP 	fixationmain: autoDraw = True
+529.6363 	EXP 	fixationmain: autoDraw = False
+529.6530 	EXP 	text_2: autoDraw = True
+530.3197 	DATA 	Keypress: n
+530.9361 	EXP 	text_2: autoDraw = False
+531.8198 	EXP 	New trial (rep=0, index=28): {u'color': u'YELLOW', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'x'}
+531.8358 	EXP 	text_2: autoDraw = False
+531.8358 	EXP 	fixationmain: autoDraw = False
+531.8358 	EXP 	text_2: color = u'YELLOW (named)'
+531.8358 	EXP 	text_2: text = u'XANH L\xc1'
+531.8358 	EXP 	fixationmain: autoDraw = True
+532.6356 	EXP 	fixationmain: autoDraw = False
+532.6523 	EXP 	text_2: autoDraw = True
+533.3855 	DATA 	Keypress: x
+533.9352 	EXP 	text_2: autoDraw = False
+534.8189 	EXP 	New trial (rep=0, index=29): {u'color': u'GREEN', u'congruent': 1, u'word': u'XANH L\xc1', u'corrans': u'n'}
+534.8350 	EXP 	text_2: autoDraw = False
+534.8350 	EXP 	fixationmain: autoDraw = False
+534.8350 	EXP 	text_2: color = u'GREEN (named)'
+534.8350 	EXP 	text_2: text = u'XANH L\xc1'
+534.8350 	EXP 	fixationmain: autoDraw = True
+535.6347 	EXP 	fixationmain: autoDraw = False
+535.6514 	EXP 	text_2: autoDraw = True
+536.3514 	DATA 	Keypress: n
+536.9345 	EXP 	text_2: autoDraw = False
+537.8183 	EXP 	New trial (rep=0, index=30): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+537.8342 	EXP 	text_2: autoDraw = False
+537.8342 	EXP 	fixationmain: autoDraw = False
+537.8342 	EXP 	text_2: color = u'RED (named)'
+537.8342 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+537.8342 	EXP 	fixationmain: autoDraw = True
+538.6340 	EXP 	fixationmain: autoDraw = False
+538.6506 	EXP 	text_2: autoDraw = True
+539.2340 	DATA 	Keypress: z
+539.9336 	EXP 	text_2: autoDraw = False
+540.8174 	EXP 	New trial (rep=0, index=31): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+540.8335 	EXP 	text_2: autoDraw = False
+540.8335 	EXP 	fixationmain: autoDraw = False
+540.8335 	EXP 	text_2: color = u'RED (named)'
+540.8335 	EXP 	text_2: text = u'V\xc0NG'
+540.8335 	EXP 	fixationmain: autoDraw = True
+541.6332 	EXP 	fixationmain: autoDraw = False
+541.6498 	EXP 	text_2: autoDraw = True
+542.7165 	DATA 	Keypress: z
+542.9329 	EXP 	text_2: autoDraw = False
+543.8166 	EXP 	New trial (rep=0, index=32): {u'color': u'YELLOW', u'congruent': 1, u'word': u'V\xc0NG', u'corrans': u'x'}
+543.8326 	EXP 	text_2: autoDraw = False
+543.8326 	EXP 	fixationmain: autoDraw = False
+543.8326 	EXP 	text_2: color = u'YELLOW (named)'
+543.8326 	EXP 	text_2: text = u'V\xc0NG'
+543.8326 	EXP 	fixationmain: autoDraw = True
+544.6324 	EXP 	fixationmain: autoDraw = False
+544.6490 	EXP 	text_2: autoDraw = True
+545.3324 	DATA 	Keypress: x
+545.9320 	EXP 	text_2: autoDraw = False
+546.8158 	EXP 	New trial (rep=0, index=33): {u'color': u'RED', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'z'}
+546.8318 	EXP 	text_2: autoDraw = False
+546.8318 	EXP 	fixationmain: autoDraw = False
+546.8318 	EXP 	text_2: color = u'RED (named)'
+546.8318 	EXP 	text_2: text = u'V\xc0NG'
+546.8318 	EXP 	fixationmain: autoDraw = True
+547.6316 	EXP 	fixationmain: autoDraw = False
+547.6483 	EXP 	text_2: autoDraw = True
+548.2150 	DATA 	Keypress: z
+548.9313 	EXP 	text_2: autoDraw = False
+549.8151 	EXP 	New trial (rep=0, index=34): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'm'}
+549.8310 	EXP 	text_2: autoDraw = False
+549.8310 	EXP 	fixationmain: autoDraw = False
+549.8310 	EXP 	text_2: color = u'BLUE (named)'
+549.8310 	EXP 	text_2: text = u'XANH L\xc1'
+549.8310 	EXP 	fixationmain: autoDraw = True
+550.6309 	EXP 	fixationmain: autoDraw = False
+550.6475 	EXP 	text_2: autoDraw = True
+551.7308 	DATA 	Keypress: m
+551.9305 	EXP 	text_2: autoDraw = False
+552.8142 	EXP 	New trial (rep=0, index=35): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+552.8303 	EXP 	text_2: autoDraw = False
+552.8303 	EXP 	fixationmain: autoDraw = False
+552.8303 	EXP 	text_2: color = u'RED (named)'
+552.8303 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+552.8303 	EXP 	fixationmain: autoDraw = True
+553.6300 	EXP 	fixationmain: autoDraw = False
+553.6467 	EXP 	text_2: autoDraw = True
+554.5306 	DATA 	Keypress: z
+554.9297 	EXP 	text_2: autoDraw = False
+555.8134 	EXP 	New trial (rep=0, index=36): {u'color': u'GREEN', u'congruent': 0, u'word': u'V\xc0NG', u'corrans': u'n'}
+555.8294 	EXP 	text_2: autoDraw = False
+555.8294 	EXP 	fixationmain: autoDraw = False
+555.8294 	EXP 	text_2: color = u'GREEN (named)'
+555.8294 	EXP 	text_2: text = u'V\xc0NG'
+555.8294 	EXP 	fixationmain: autoDraw = True
+556.6293 	EXP 	fixationmain: autoDraw = False
+556.6459 	EXP 	text_2: autoDraw = True
+557.3126 	DATA 	Keypress: n
+557.9289 	EXP 	text_2: autoDraw = False
+558.8126 	EXP 	New trial (rep=0, index=37): {u'color': u'RED', u'congruent': 0, u'word': u'XANH D\u01af\u01a0NG', u'corrans': u'z'}
+558.8287 	EXP 	text_2: autoDraw = False
+558.8287 	EXP 	fixationmain: autoDraw = False
+558.8287 	EXP 	text_2: color = u'RED (named)'
+558.8287 	EXP 	text_2: text = u'XANH D\u01af\u01a0NG'
+558.8287 	EXP 	fixationmain: autoDraw = True
+559.6284 	EXP 	fixationmain: autoDraw = False
+559.6451 	EXP 	text_2: autoDraw = True
+560.2955 	DATA 	Keypress: z
+560.9281 	EXP 	text_2: autoDraw = False
+561.8118 	EXP 	New trial (rep=0, index=38): {u'color': u'GREEN', u'congruent': 0, u'word': u'\u0110\u1ece', u'corrans': u'm'}
+561.8278 	EXP 	text_2: autoDraw = False
+561.8278 	EXP 	fixationmain: autoDraw = False
+561.8278 	EXP 	text_2: color = u'GREEN (named)'
+561.8278 	EXP 	text_2: text = u'\u0110\u1ece'
+561.8278 	EXP 	fixationmain: autoDraw = True
+562.6276 	EXP 	fixationmain: autoDraw = False
+562.6443 	EXP 	text_2: autoDraw = True
+563.6275 	DATA 	Keypress: x
+563.9272 	EXP 	text_2: autoDraw = False
+564.8112 	EXP 	New trial (rep=0, index=39): {u'color': u'BLUE', u'congruent': 0, u'word': u'XANH L\xc1', u'corrans': u'z'}
+564.8271 	EXP 	text_2: autoDraw = False
+564.8271 	EXP 	fixationmain: autoDraw = False
+564.8271 	EXP 	text_2: color = u'BLUE (named)'
+564.8271 	EXP 	text_2: text = u'XANH L\xc1'
+564.8271 	EXP 	fixationmain: autoDraw = True
+565.6268 	EXP 	fixationmain: autoDraw = False
+565.6436 	EXP 	text_2: autoDraw = True
+566.7437 	DATA 	Keypress: m
+566.9265 	EXP 	text_2: autoDraw = False
+567.8263 	EXP 	text_2: autoDraw = False
+567.8263 	EXP 	fixationmain: autoDraw = False
+567.8263 	EXP 	text_10: autoDraw = True
+567.8263 	EXP 	text_11: autoDraw = True
+627.8271 	EXP 	text_10: autoDraw = False
+627.8271 	EXP 	text_11: autoDraw = False
+627.8271 	EXP 	text_10: autoDraw = False
+627.8271 	EXP 	text_11: autoDraw = False
+627.8271 	EXP 	ending_text: autoDraw = True
+637.8244 	EXP 	ending_text: autoDraw = False
+644.3396 	DATA 	Keypress: space

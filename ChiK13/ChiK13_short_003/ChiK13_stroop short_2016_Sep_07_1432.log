@@ -1,0 +1,1619 @@
+1.0454 	WARNING 	Movie2 stim could not be imported and won't be available
+13.7976 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x093EBC10>, name='window1', pos=[0, 0], screen=0, size=array([1360,  768]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.7977 	EXP 	window1: recordFrameIntervals = False
+13.9636 	EXP 	window1: recordFrameIntervals = True
+14.1469 	EXP 	window1: recordFrameIntervals = False
+14.2806 	EXP 	Created intro_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='intro_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Welcome to Stroop Task - Short Paradigm!', units=u'norm', win=Window(...), wrapWidth=1)
+14.3210 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.3335 	EXP 	Created instruction2_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='instruction2_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.3379 	EXP 	Created rest_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='rest_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.3427 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.3521 	EXP 	Created fixationmain = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixationmain', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+14.6413 	EXP 	Set  sound=chopin2.wav
+14.6413 	EXP 	Set Sound  volume=1.000
+14.6464 	EXP 	Created rest_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='rest_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.6516 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.6542 	EXP 	Created fixationmain = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixationmain', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+14.7063 	EXP 	Set  sound=chopin2.wav
+14.7064 	EXP 	Set Sound  volume=1.000
+14.7118 	EXP 	Created rest_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='rest_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.7509 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 1.,  1.,  1.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.7537 	EXP 	Created fixationmain = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='fixationmain', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+14.8071 	EXP 	Set  sound=chopin2.wav
+14.8072 	EXP 	Set Sound  volume=1.000
+14.8122 	EXP 	Created rest_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='rest_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.8199 	EXP 	Created ending_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='ending_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Thank you for your participation :)', units=u'norm', win=Window(...), wrapWidth=1)
+14.8391 	EXP 	intro_text: autoDraw = True
+43.6389 	DATA 	Keypress: space
+43.6554 	EXP 	intro_text: autoDraw = False
+43.6554 	EXP 	text: autoDraw = True
+44.6552 	DATA 	Keypress: space
+46.4048 	DATA 	Keypress: space
+46.4212 	EXP 	text: autoDraw = False
+46.4212 	EXP 	instruction2_text: autoDraw = True
+49.0541 	DATA 	Keypress: space
+49.0705 	EXP 	instruction2_text: autoDraw = False
+49.0705 	EXP 	rest_text: text = '+'
+49.0705 	EXP 	rest_text: autoDraw = True
+109.0712 	EXP 	Imported Stroopmain-short-in-10event x 4.xlsx as conditions, 40 conditions, 4 params
+109.0716 	EXP 	Created sequence: sequential, trialTypes=40, nReps=1, seed=None
+109.0729 	EXP 	New trial (rep=0, index=0): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+109.0775 	EXP 	Sound  started
+109.0878 	EXP 	rest_text: autoDraw = False
+109.0878 	EXP 	text_2: color = u'RED (named)'
+109.0878 	EXP 	text_2: text = u'YELLOW'
+109.0878 	EXP 	fixationmain: autoDraw = True
+109.8875 	EXP 	fixationmain: autoDraw = False
+109.9042 	EXP 	text_2: autoDraw = True
+110.0709 	EXP 	Sound  stopped
+110.8875 	DATA 	Keypress: z
+111.1872 	EXP 	text_2: autoDraw = False
+112.0710 	EXP 	Sound  stopped
+112.0712 	EXP 	New trial (rep=0, index=1): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+112.0748 	EXP 	Sound  started
+112.0869 	EXP 	text_2: autoDraw = False
+112.0869 	EXP 	fixationmain: autoDraw = False
+112.0869 	EXP 	text_2: color = u'RED (named)'
+112.0869 	EXP 	text_2: text = u'RED'
+112.0869 	EXP 	fixationmain: autoDraw = True
+112.8868 	EXP 	fixationmain: autoDraw = False
+112.9034 	EXP 	text_2: autoDraw = True
+113.0701 	EXP 	Sound  stopped
+113.3201 	DATA 	Keypress: z
+114.1863 	EXP 	text_2: autoDraw = False
+115.0699 	EXP 	Sound  stopped
+115.0701 	EXP 	New trial (rep=0, index=2): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'z'}
+115.0732 	EXP 	Sound  started
+115.0861 	EXP 	text_2: autoDraw = False
+115.0861 	EXP 	fixationmain: autoDraw = False
+115.0861 	EXP 	text_2: color = u'BLUE (named)'
+115.0861 	EXP 	text_2: text = u'GREEN'
+115.0861 	EXP 	fixationmain: autoDraw = True
+115.8859 	EXP 	fixationmain: autoDraw = False
+115.9025 	EXP 	text_2: autoDraw = True
+116.0692 	EXP 	Sound  stopped
+116.5860 	DATA 	Keypress: n
+117.1856 	EXP 	text_2: autoDraw = False
+118.0691 	EXP 	Sound  stopped
+118.0693 	EXP 	New trial (rep=0, index=3): {u'color': u'YELLOW', u'congruent': 0, u'word': u'RED', u'corrans': u'z'}
+118.0718 	EXP 	Sound  started
+118.0853 	EXP 	text_2: autoDraw = False
+118.0853 	EXP 	fixationmain: autoDraw = False
+118.0853 	EXP 	text_2: color = u'YELLOW (named)'
+118.0853 	EXP 	text_2: text = u'RED'
+118.0853 	EXP 	fixationmain: autoDraw = True
+118.8851 	EXP 	fixationmain: autoDraw = False
+118.9017 	EXP 	text_2: autoDraw = True
+119.0684 	EXP 	Sound  stopped
+119.6351 	DATA 	Keypress: x
+120.1847 	EXP 	text_2: autoDraw = False
+121.0682 	EXP 	Sound  stopped
+121.0684 	EXP 	New trial (rep=0, index=4): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+121.0709 	EXP 	Sound  started
+121.0845 	EXP 	text_2: autoDraw = False
+121.0845 	EXP 	fixationmain: autoDraw = False
+121.0845 	EXP 	text_2: color = u'GREEN (named)'
+121.0845 	EXP 	text_2: text = u'RED'
+121.0845 	EXP 	fixationmain: autoDraw = True
+121.8842 	EXP 	fixationmain: autoDraw = False
+121.9009 	EXP 	text_2: autoDraw = True
+122.0676 	EXP 	Sound  stopped
+122.6845 	DATA 	Keypress: n
+123.1839 	EXP 	text_2: autoDraw = False
+124.0674 	EXP 	Sound  stopped
+124.0676 	EXP 	New trial (rep=0, index=5): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+124.0702 	EXP 	Sound  started
+124.0838 	EXP 	text_2: autoDraw = False
+124.0838 	EXP 	fixationmain: autoDraw = False
+124.0838 	EXP 	text_2: color = u'RED (named)'
+124.0838 	EXP 	text_2: text = u'BLUE'
+124.0838 	EXP 	fixationmain: autoDraw = True
+124.8835 	EXP 	fixationmain: autoDraw = False
+124.9001 	EXP 	text_2: autoDraw = True
+125.0668 	EXP 	Sound  stopped
+125.6001 	DATA 	Keypress: z
+126.1831 	EXP 	text_2: autoDraw = False
+127.0666 	EXP 	Sound  stopped
+127.0668 	EXP 	New trial (rep=0, index=6): {u'color': u'GREEN', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'n'}
+127.0697 	EXP 	Sound  started
+127.0828 	EXP 	text_2: autoDraw = False
+127.0828 	EXP 	fixationmain: autoDraw = False
+127.0828 	EXP 	text_2: color = u'GREEN (named)'
+127.0828 	EXP 	text_2: text = u'YELLOW'
+127.0828 	EXP 	fixationmain: autoDraw = True
+127.8826 	EXP 	fixationmain: autoDraw = False
+127.8993 	EXP 	text_2: autoDraw = True
+128.0660 	EXP 	Sound  stopped
+129.1325 	DATA 	Keypress: n
+129.1823 	EXP 	text_2: autoDraw = False
+130.0658 	EXP 	Sound  stopped
+130.0660 	EXP 	New trial (rep=0, index=7): {u'color': u'YELLOW', u'congruent': 0, u'word': u'BLUE', u'corrans': u'x'}
+130.0688 	EXP 	Sound  started
+130.0820 	EXP 	text_2: autoDraw = False
+130.0820 	EXP 	fixationmain: autoDraw = False
+130.0820 	EXP 	text_2: color = u'YELLOW (named)'
+130.0820 	EXP 	text_2: text = u'BLUE'
+130.0820 	EXP 	fixationmain: autoDraw = True
+130.8818 	EXP 	fixationmain: autoDraw = False
+130.8984 	EXP 	text_2: autoDraw = True
+131.0651 	EXP 	Sound  stopped
+131.6818 	DATA 	Keypress: x
+132.1814 	EXP 	text_2: autoDraw = False
+133.0649 	EXP 	Sound  stopped
+133.0651 	EXP 	New trial (rep=0, index=8): {u'color': u'GREEN', u'congruent': 0, u'word': u'BLUE', u'corrans': u'n'}
+133.0680 	EXP 	Sound  started
+133.0812 	EXP 	text_2: autoDraw = False
+133.0812 	EXP 	fixationmain: autoDraw = False
+133.0812 	EXP 	text_2: color = u'GREEN (named)'
+133.0812 	EXP 	text_2: text = u'BLUE'
+133.0812 	EXP 	fixationmain: autoDraw = True
+133.8809 	EXP 	fixationmain: autoDraw = False
+133.8977 	EXP 	text_2: autoDraw = True
+134.0645 	EXP 	Sound  stopped
+134.9976 	DATA 	Keypress: m
+135.1806 	EXP 	text_2: autoDraw = False
+136.0641 	EXP 	Sound  stopped
+136.0643 	EXP 	New trial (rep=0, index=9): {u'color': u'RED', u'congruent': 0, u'word': u'GREEN', u'corrans': u'z'}
+136.0671 	EXP 	Sound  started
+136.0803 	EXP 	text_2: autoDraw = False
+136.0803 	EXP 	fixationmain: autoDraw = False
+136.0803 	EXP 	text_2: color = u'RED (named)'
+136.0803 	EXP 	text_2: text = u'GREEN'
+136.0803 	EXP 	fixationmain: autoDraw = True
+136.8802 	EXP 	fixationmain: autoDraw = False
+136.8968 	EXP 	text_2: autoDraw = True
+137.0635 	EXP 	Sound  stopped
+137.6469 	DATA 	Keypress: z
+138.1798 	EXP 	text_2: autoDraw = False
+139.0633 	EXP 	Sound  stopped
+139.0636 	EXP 	New trial (rep=0, index=10): {u'color': u'YELLOW', u'congruent': 0, u'word': u'BLUE', u'corrans': u'x'}
+139.0662 	EXP 	Sound  started
+139.0796 	EXP 	text_2: autoDraw = False
+139.0796 	EXP 	fixationmain: autoDraw = False
+139.0796 	EXP 	text_2: color = u'YELLOW (named)'
+139.0796 	EXP 	text_2: text = u'BLUE'
+139.0796 	EXP 	fixationmain: autoDraw = True
+139.8793 	EXP 	fixationmain: autoDraw = False
+139.8960 	EXP 	text_2: autoDraw = True
+140.0628 	EXP 	Sound  stopped
+140.5628 	DATA 	Keypress: x
+141.1790 	EXP 	text_2: autoDraw = False
+142.0625 	EXP 	Sound  stopped
+142.0627 	EXP 	New trial (rep=0, index=11): {u'color': u'RED', u'congruent': 0, u'word': u'RED', u'corrans': u'z'}
+142.0652 	EXP 	Sound  started
+142.0787 	EXP 	text_2: autoDraw = False
+142.0787 	EXP 	fixationmain: autoDraw = False
+142.0787 	EXP 	text_2: color = u'RED (named)'
+142.0787 	EXP 	text_2: text = u'RED'
+142.0787 	EXP 	fixationmain: autoDraw = True
+142.8785 	EXP 	fixationmain: autoDraw = False
+142.8952 	EXP 	text_2: autoDraw = True
+143.0619 	EXP 	Sound  stopped
+143.7285 	DATA 	Keypress: z
+144.1782 	EXP 	text_2: autoDraw = False
+145.0617 	EXP 	Sound  stopped
+145.0619 	EXP 	New trial (rep=0, index=12): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+145.0646 	EXP 	Sound  started
+145.0779 	EXP 	text_2: autoDraw = False
+145.0779 	EXP 	fixationmain: autoDraw = False
+145.0779 	EXP 	text_2: color = u'BLUE (named)'
+145.0779 	EXP 	text_2: text = u'BLUE'
+145.0779 	EXP 	fixationmain: autoDraw = True
+145.8777 	EXP 	fixationmain: autoDraw = False
+145.8944 	EXP 	text_2: autoDraw = True
+146.0612 	EXP 	Sound  stopped
+146.9943 	DATA 	Keypress: m
+147.1773 	EXP 	text_2: autoDraw = False
+148.0609 	EXP 	Sound  stopped
+148.0611 	EXP 	New trial (rep=0, index=13): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+148.0636 	EXP 	Sound  started
+148.0770 	EXP 	text_2: autoDraw = False
+148.0770 	EXP 	fixationmain: autoDraw = False
+148.0770 	EXP 	text_2: color = u'GREEN (named)'
+148.0770 	EXP 	text_2: text = u'RED'
+148.0770 	EXP 	fixationmain: autoDraw = True
+148.8768 	EXP 	fixationmain: autoDraw = False
+148.8935 	EXP 	text_2: autoDraw = True
+149.0602 	EXP 	Sound  stopped
+149.7937 	DATA 	Keypress: n
+150.1765 	EXP 	text_2: autoDraw = False
+151.0601 	EXP 	Sound  stopped
+151.0603 	EXP 	New trial (rep=0, index=14): {u'color': u'BLUE', u'congruent': 0, u'word': u'RED', u'corrans': u'm'}
+151.0630 	EXP 	Sound  started
+151.0762 	EXP 	text_2: autoDraw = False
+151.0762 	EXP 	fixationmain: autoDraw = False
+151.0762 	EXP 	text_2: color = u'BLUE (named)'
+151.0762 	EXP 	text_2: text = u'RED'
+151.0762 	EXP 	fixationmain: autoDraw = True
+151.8761 	EXP 	fixationmain: autoDraw = False
+151.8927 	EXP 	text_2: autoDraw = True
+152.0595 	EXP 	Sound  stopped
+152.4929 	DATA 	Keypress: m
+153.1757 	EXP 	text_2: autoDraw = False
+154.0592 	EXP 	Sound  stopped
+154.0594 	EXP 	New trial (rep=0, index=15): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+154.0622 	EXP 	Sound  started
+154.0754 	EXP 	text_2: autoDraw = False
+154.0754 	EXP 	fixationmain: autoDraw = False
+154.0754 	EXP 	text_2: color = u'BLUE (named)'
+154.0754 	EXP 	text_2: text = u'GREEN'
+154.0754 	EXP 	fixationmain: autoDraw = True
+154.8752 	EXP 	fixationmain: autoDraw = False
+154.8919 	EXP 	text_2: autoDraw = True
+155.0586 	EXP 	Sound  stopped
+155.4752 	DATA 	Keypress: m
+156.1749 	EXP 	text_2: autoDraw = False
+157.0586 	EXP 	Sound  stopped
+157.0588 	EXP 	New trial (rep=0, index=16): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+157.0616 	EXP 	Sound  started
+157.0746 	EXP 	text_2: autoDraw = False
+157.0746 	EXP 	fixationmain: autoDraw = False
+157.0746 	EXP 	text_2: color = u'YELLOW (named)'
+157.0746 	EXP 	text_2: text = u'GREEN'
+157.0746 	EXP 	fixationmain: autoDraw = True
+157.8744 	EXP 	fixationmain: autoDraw = False
+157.8911 	EXP 	text_2: autoDraw = True
+158.0578 	EXP 	Sound  stopped
+158.8077 	DATA 	Keypress: x
+159.1740 	EXP 	text_2: autoDraw = False
+160.0576 	EXP 	Sound  stopped
+160.0578 	EXP 	New trial (rep=0, index=17): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+160.0607 	EXP 	Sound  started
+160.0738 	EXP 	text_2: autoDraw = False
+160.0738 	EXP 	fixationmain: autoDraw = False
+160.0738 	EXP 	text_2: color = u'RED (named)'
+160.0738 	EXP 	text_2: text = u'YELLOW'
+160.0738 	EXP 	fixationmain: autoDraw = True
+160.8736 	EXP 	fixationmain: autoDraw = False
+160.8902 	EXP 	text_2: autoDraw = True
+161.0569 	EXP 	Sound  stopped
+161.4570 	DATA 	Keypress: z
+162.1734 	EXP 	text_2: autoDraw = False
+163.0568 	EXP 	Sound  stopped
+163.0570 	EXP 	New trial (rep=0, index=18): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+163.0598 	EXP 	Sound  started
+163.0730 	EXP 	text_2: autoDraw = False
+163.0730 	EXP 	fixationmain: autoDraw = False
+163.0730 	EXP 	text_2: color = u'RED (named)'
+163.0730 	EXP 	text_2: text = u'BLUE'
+163.0730 	EXP 	fixationmain: autoDraw = True
+163.8727 	EXP 	fixationmain: autoDraw = False
+163.8894 	EXP 	text_2: autoDraw = True
+164.0561 	EXP 	Sound  stopped
+164.7394 	DATA 	Keypress: z
+165.1724 	EXP 	text_2: autoDraw = False
+166.0559 	EXP 	Sound  stopped
+166.0561 	EXP 	New trial (rep=0, index=19): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'm'}
+166.0586 	EXP 	Sound  started
+166.0722 	EXP 	text_2: autoDraw = False
+166.0722 	EXP 	fixationmain: autoDraw = False
+166.0722 	EXP 	text_2: color = u'GREEN (named)'
+166.0722 	EXP 	text_2: text = u'RED'
+166.0722 	EXP 	fixationmain: autoDraw = True
+166.8719 	EXP 	fixationmain: autoDraw = False
+166.8886 	EXP 	text_2: autoDraw = True
+167.0553 	EXP 	Sound  stopped
+167.7053 	DATA 	Keypress: n
+168.1716 	EXP 	text_2: autoDraw = False
+169.0552 	EXP 	Sound  stopped
+169.0554 	EXP 	New trial (rep=0, index=20): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+169.0584 	EXP 	Sound  started
+169.0713 	EXP 	text_2: autoDraw = False
+169.0713 	EXP 	fixationmain: autoDraw = False
+169.0713 	EXP 	text_2: color = u'BLUE (named)'
+169.0713 	EXP 	text_2: text = u'GREEN'
+169.0713 	EXP 	fixationmain: autoDraw = True
+169.8712 	EXP 	fixationmain: autoDraw = False
+169.8877 	EXP 	text_2: autoDraw = True
+170.0545 	EXP 	Sound  stopped
+171.1043 	DATA 	Keypress: m
+171.1707 	EXP 	text_2: autoDraw = False
+172.0543 	EXP 	Sound  stopped
+172.0545 	EXP 	New trial (rep=0, index=21): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+172.0575 	EXP 	Sound  started
+172.0706 	EXP 	text_2: autoDraw = False
+172.0706 	EXP 	fixationmain: autoDraw = False
+172.0706 	EXP 	text_2: color = u'RED (named)'
+172.0706 	EXP 	text_2: text = u'YELLOW'
+172.0706 	EXP 	fixationmain: autoDraw = True
+172.8703 	EXP 	fixationmain: autoDraw = False
+172.8869 	EXP 	text_2: autoDraw = True
+173.0537 	EXP 	Sound  stopped
+173.4537 	DATA 	Keypress: z
+174.1699 	EXP 	text_2: autoDraw = False
+175.0535 	EXP 	Sound  stopped
+175.0537 	EXP 	New trial (rep=0, index=22): {u'color': u'GREEN', u'congruent': 0, u'word': u'BLUE', u'corrans': u'n'}
+175.0563 	EXP 	Sound  started
+175.0697 	EXP 	text_2: autoDraw = False
+175.0697 	EXP 	fixationmain: autoDraw = False
+175.0697 	EXP 	text_2: color = u'GREEN (named)'
+175.0697 	EXP 	text_2: text = u'BLUE'
+175.0697 	EXP 	fixationmain: autoDraw = True
+175.8695 	EXP 	fixationmain: autoDraw = False
+175.8861 	EXP 	text_2: autoDraw = True
+176.0528 	EXP 	Sound  stopped
+176.5695 	DATA 	Keypress: n
+177.1691 	EXP 	text_2: autoDraw = False
+178.0527 	EXP 	Sound  stopped
+178.0530 	EXP 	New trial (rep=0, index=23): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+178.0559 	EXP 	Sound  started
+178.0689 	EXP 	text_2: autoDraw = False
+178.0689 	EXP 	fixationmain: autoDraw = False
+178.0689 	EXP 	text_2: color = u'YELLOW (named)'
+178.0689 	EXP 	text_2: text = u'YELLOW'
+178.0689 	EXP 	fixationmain: autoDraw = True
+178.8686 	EXP 	fixationmain: autoDraw = False
+178.8853 	EXP 	text_2: autoDraw = True
+179.0521 	EXP 	Sound  stopped
+179.5853 	DATA 	Keypress: x
+180.1683 	EXP 	text_2: autoDraw = False
+181.0519 	EXP 	Sound  stopped
+181.0521 	EXP 	New trial (rep=0, index=24): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+181.0547 	EXP 	Sound  started
+181.0680 	EXP 	text_2: autoDraw = False
+181.0680 	EXP 	fixationmain: autoDraw = False
+181.0680 	EXP 	text_2: color = u'RED (named)'
+181.0680 	EXP 	text_2: text = u'BLUE'
+181.0680 	EXP 	fixationmain: autoDraw = True
+181.8678 	EXP 	fixationmain: autoDraw = False
+181.8845 	EXP 	text_2: autoDraw = True
+182.0513 	EXP 	Sound  stopped
+182.5345 	DATA 	Keypress: z
+183.1675 	EXP 	text_2: autoDraw = False
+184.0510 	EXP 	Sound  stopped
+184.0512 	EXP 	New trial (rep=0, index=25): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+184.0537 	EXP 	Sound  started
+184.0672 	EXP 	text_2: autoDraw = False
+184.0672 	EXP 	fixationmain: autoDraw = False
+184.0672 	EXP 	text_2: color = u'GREEN (named)'
+184.0672 	EXP 	text_2: text = u'RED'
+184.0672 	EXP 	fixationmain: autoDraw = True
+184.8670 	EXP 	fixationmain: autoDraw = False
+184.8837 	EXP 	text_2: autoDraw = True
+185.0505 	EXP 	Sound  stopped
+185.9836 	DATA 	Keypress: n
+186.1666 	EXP 	text_2: autoDraw = False
+187.0503 	EXP 	Sound  stopped
+187.0505 	EXP 	New trial (rep=0, index=26): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+187.0535 	EXP 	Sound  started
+187.0664 	EXP 	text_2: autoDraw = False
+187.0664 	EXP 	fixationmain: autoDraw = False
+187.0664 	EXP 	text_2: color = u'BLUE (named)'
+187.0664 	EXP 	text_2: text = u'GREEN'
+187.0664 	EXP 	fixationmain: autoDraw = True
+187.8662 	EXP 	fixationmain: autoDraw = False
+187.8828 	EXP 	text_2: autoDraw = True
+188.0495 	EXP 	Sound  stopped
+188.8161 	DATA 	Keypress: m
+189.1658 	EXP 	text_2: autoDraw = False
+190.0494 	EXP 	Sound  stopped
+190.0496 	EXP 	New trial (rep=0, index=27): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+190.0529 	EXP 	Sound  started
+190.0656 	EXP 	text_2: autoDraw = False
+190.0656 	EXP 	fixationmain: autoDraw = False
+190.0656 	EXP 	text_2: color = u'YELLOW (named)'
+190.0656 	EXP 	text_2: text = u'GREEN'
+190.0656 	EXP 	fixationmain: autoDraw = True
+190.8654 	EXP 	fixationmain: autoDraw = False
+190.8821 	EXP 	text_2: autoDraw = True
+191.0488 	EXP 	Sound  stopped
+191.7986 	DATA 	Keypress: x
+192.1650 	EXP 	text_2: autoDraw = False
+193.0485 	EXP 	Sound  stopped
+193.0487 	EXP 	New trial (rep=0, index=28): {u'color': u'GREEN', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'n'}
+193.0517 	EXP 	Sound  started
+193.0647 	EXP 	text_2: autoDraw = False
+193.0647 	EXP 	fixationmain: autoDraw = False
+193.0647 	EXP 	text_2: color = u'GREEN (named)'
+193.0647 	EXP 	text_2: text = u'YELLOW'
+193.0647 	EXP 	fixationmain: autoDraw = True
+193.8645 	EXP 	fixationmain: autoDraw = False
+193.8812 	EXP 	text_2: autoDraw = True
+194.0479 	EXP 	Sound  stopped
+195.1311 	DATA 	Keypress: n
+195.1642 	EXP 	text_2: autoDraw = False
+196.0477 	EXP 	Sound  stopped
+196.0479 	EXP 	New trial (rep=0, index=29): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+196.0516 	EXP 	Sound  started
+196.0639 	EXP 	text_2: autoDraw = False
+196.0639 	EXP 	fixationmain: autoDraw = False
+196.0639 	EXP 	text_2: color = u'RED (named)'
+196.0639 	EXP 	text_2: text = u'YELLOW'
+196.0639 	EXP 	fixationmain: autoDraw = True
+196.8637 	EXP 	fixationmain: autoDraw = False
+196.8804 	EXP 	text_2: autoDraw = True
+197.0471 	EXP 	Sound  stopped
+197.5637 	DATA 	Keypress: z
+198.1633 	EXP 	text_2: autoDraw = False
+199.0469 	EXP 	Sound  stopped
+199.0471 	EXP 	New trial (rep=0, index=30): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+199.0499 	EXP 	Sound  started
+199.0631 	EXP 	text_2: autoDraw = False
+199.0631 	EXP 	fixationmain: autoDraw = False
+199.0631 	EXP 	text_2: color = u'YELLOW (named)'
+199.0631 	EXP 	text_2: text = u'GREEN'
+199.0631 	EXP 	fixationmain: autoDraw = True
+199.8629 	EXP 	fixationmain: autoDraw = False
+199.8795 	EXP 	text_2: autoDraw = True
+200.0462 	EXP 	Sound  stopped
+200.5130 	DATA 	Keypress: x
+201.1626 	EXP 	text_2: autoDraw = False
+202.0462 	EXP 	Sound  stopped
+202.0464 	EXP 	New trial (rep=0, index=31): {u'color': u'BLUE', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'm'}
+202.0493 	EXP 	Sound  started
+202.0623 	EXP 	text_2: autoDraw = False
+202.0623 	EXP 	fixationmain: autoDraw = False
+202.0623 	EXP 	text_2: color = u'BLUE (named)'
+202.0623 	EXP 	text_2: text = u'YELLOW'
+202.0623 	EXP 	fixationmain: autoDraw = True
+202.8621 	EXP 	fixationmain: autoDraw = False
+202.8787 	EXP 	text_2: autoDraw = True
+203.0455 	EXP 	Sound  stopped
+203.6455 	DATA 	Keypress: m
+204.1617 	EXP 	text_2: autoDraw = False
+205.0452 	EXP 	Sound  stopped
+205.0455 	EXP 	New trial (rep=0, index=32): {u'color': u'BLUE', u'congruent': 0, u'word': u'RED', u'corrans': u'm'}
+205.0482 	EXP 	Sound  started
+205.0615 	EXP 	text_2: autoDraw = False
+205.0615 	EXP 	fixationmain: autoDraw = False
+205.0615 	EXP 	text_2: color = u'BLUE (named)'
+205.0615 	EXP 	text_2: text = u'RED'
+205.0615 	EXP 	fixationmain: autoDraw = True
+205.8613 	EXP 	fixationmain: autoDraw = False
+205.8779 	EXP 	text_2: autoDraw = True
+206.0446 	EXP 	Sound  stopped
+206.5613 	DATA 	Keypress: m
+207.1609 	EXP 	text_2: autoDraw = False
+208.0445 	EXP 	Sound  stopped
+208.0447 	EXP 	New trial (rep=0, index=33): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+208.0475 	EXP 	Sound  started
+208.0607 	EXP 	text_2: autoDraw = False
+208.0607 	EXP 	fixationmain: autoDraw = False
+208.0607 	EXP 	text_2: color = u'YELLOW (named)'
+208.0607 	EXP 	text_2: text = u'GREEN'
+208.0607 	EXP 	fixationmain: autoDraw = True
+208.8604 	EXP 	fixationmain: autoDraw = False
+208.8771 	EXP 	text_2: autoDraw = True
+209.0438 	EXP 	Sound  stopped
+209.5938 	DATA 	Keypress: x
+210.1601 	EXP 	text_2: autoDraw = False
+211.0436 	EXP 	Sound  stopped
+211.0438 	EXP 	New trial (rep=0, index=34): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+211.0466 	EXP 	Sound  started
+211.0599 	EXP 	text_2: autoDraw = False
+211.0599 	EXP 	fixationmain: autoDraw = False
+211.0599 	EXP 	text_2: color = u'GREEN (named)'
+211.0599 	EXP 	text_2: text = u'GREEN'
+211.0599 	EXP 	fixationmain: autoDraw = True
+211.8596 	EXP 	fixationmain: autoDraw = False
+211.8763 	EXP 	text_2: autoDraw = True
+212.0430 	EXP 	Sound  stopped
+212.7429 	DATA 	Keypress: m
+213.1593 	EXP 	text_2: autoDraw = False
+214.0429 	EXP 	Sound  stopped
+214.0431 	EXP 	New trial (rep=0, index=35): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+214.0456 	EXP 	Sound  started
+214.0590 	EXP 	text_2: autoDraw = False
+214.0590 	EXP 	fixationmain: autoDraw = False
+214.0590 	EXP 	text_2: color = u'GREEN (named)'
+214.0590 	EXP 	text_2: text = u'RED'
+214.0590 	EXP 	fixationmain: autoDraw = True
+214.8588 	EXP 	fixationmain: autoDraw = False
+214.8754 	EXP 	text_2: autoDraw = True
+215.0421 	EXP 	Sound  stopped
+215.6921 	DATA 	Keypress: n
+216.1584 	EXP 	text_2: autoDraw = False
+217.0420 	EXP 	Sound  stopped
+217.0422 	EXP 	New trial (rep=0, index=36): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+217.0450 	EXP 	Sound  started
+217.0582 	EXP 	text_2: autoDraw = False
+217.0582 	EXP 	fixationmain: autoDraw = False
+217.0582 	EXP 	text_2: color = u'BLUE (named)'
+217.0582 	EXP 	text_2: text = u'GREEN'
+217.0582 	EXP 	fixationmain: autoDraw = True
+217.8580 	EXP 	fixationmain: autoDraw = False
+217.8746 	EXP 	text_2: autoDraw = True
+218.0413 	EXP 	Sound  stopped
+218.7579 	DATA 	Keypress: m
+219.1576 	EXP 	text_2: autoDraw = False
+220.0413 	EXP 	Sound  stopped
+220.0415 	EXP 	New trial (rep=0, index=37): {u'color': u'BLUE', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'm'}
+220.0444 	EXP 	Sound  started
+220.0574 	EXP 	text_2: autoDraw = False
+220.0574 	EXP 	fixationmain: autoDraw = False
+220.0574 	EXP 	text_2: color = u'BLUE (named)'
+220.0574 	EXP 	text_2: text = u'YELLOW'
+220.0574 	EXP 	fixationmain: autoDraw = True
+220.8572 	EXP 	fixationmain: autoDraw = False
+220.8738 	EXP 	text_2: autoDraw = True
+221.0405 	EXP 	Sound  stopped
+221.6239 	DATA 	Keypress: m
+222.1568 	EXP 	text_2: autoDraw = False
+223.0405 	EXP 	Sound  stopped
+223.0407 	EXP 	New trial (rep=0, index=38): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+223.0444 	EXP 	Sound  started
+223.0566 	EXP 	text_2: autoDraw = False
+223.0566 	EXP 	fixationmain: autoDraw = False
+223.0566 	EXP 	text_2: color = u'YELLOW (named)'
+223.0566 	EXP 	text_2: text = u'GREEN'
+223.0566 	EXP 	fixationmain: autoDraw = True
+223.8563 	EXP 	fixationmain: autoDraw = False
+223.8730 	EXP 	text_2: autoDraw = True
+224.0398 	EXP 	Sound  stopped
+224.7064 	DATA 	Keypress: x
+225.1560 	EXP 	text_2: autoDraw = False
+226.0395 	EXP 	Sound  stopped
+226.0397 	EXP 	New trial (rep=0, index=39): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+226.0423 	EXP 	Sound  started
+226.0557 	EXP 	text_2: autoDraw = False
+226.0557 	EXP 	fixationmain: autoDraw = False
+226.0557 	EXP 	text_2: color = u'RED (named)'
+226.0557 	EXP 	text_2: text = u'BLUE'
+226.0557 	EXP 	fixationmain: autoDraw = True
+226.8555 	EXP 	fixationmain: autoDraw = False
+226.8722 	EXP 	text_2: autoDraw = True
+227.0388 	EXP 	Sound  stopped
+227.7055 	DATA 	Keypress: z
+228.1552 	EXP 	text_2: autoDraw = False
+229.0387 	EXP 	Sound  stopped
+229.0549 	EXP 	text_2: autoDraw = False
+229.0549 	EXP 	fixationmain: autoDraw = False
+229.0549 	EXP 	rest_text: text = '+'
+229.0549 	EXP 	rest_text: autoDraw = True
+289.0529 	EXP 	Imported Stroopmain-short-con-10event x 4.xlsx as conditions, 40 conditions, 4 params
+289.0537 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+289.0552 	EXP 	New trial (rep=0, index=0): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+289.0580 	EXP 	Sound  started
+289.0718 	EXP 	rest_text: autoDraw = False
+289.0718 	EXP 	rest_text: autoDraw = False
+289.0718 	EXP 	text_2: color = u'GREEN (named)'
+289.0718 	EXP 	text_2: text = u'GREEN'
+289.0718 	EXP 	fixationmain: autoDraw = True
+289.8716 	EXP 	fixationmain: autoDraw = False
+289.8884 	EXP 	text_2: autoDraw = True
+290.0550 	EXP 	Sound  stopped
+291.1712 	EXP 	text_2: autoDraw = False
+291.5380 	DATA 	Keypress: n
+292.0550 	EXP 	Sound  stopped
+292.0552 	EXP 	New trial (rep=0, index=1): {u'color': u'YELLOW', u'congruent': 0, u'word': u'RED', u'corrans': u'x'}
+292.0577 	EXP 	Sound  started
+292.0710 	EXP 	text_2: autoDraw = False
+292.0710 	EXP 	fixationmain: autoDraw = False
+292.0710 	EXP 	text_2: color = u'YELLOW (named)'
+292.0710 	EXP 	text_2: text = u'RED'
+292.0710 	EXP 	fixationmain: autoDraw = True
+292.8708 	EXP 	fixationmain: autoDraw = False
+292.8874 	EXP 	text_2: autoDraw = True
+293.0541 	EXP 	Sound  stopped
+293.6041 	DATA 	Keypress: x
+294.1705 	EXP 	text_2: autoDraw = False
+295.0540 	EXP 	Sound  stopped
+295.0543 	EXP 	New trial (rep=0, index=2): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+295.0567 	EXP 	Sound  started
+295.0701 	EXP 	text_2: autoDraw = False
+295.0701 	EXP 	fixationmain: autoDraw = False
+295.0701 	EXP 	text_2: color = u'RED (named)'
+295.0701 	EXP 	text_2: text = u'RED'
+295.0701 	EXP 	fixationmain: autoDraw = True
+295.8700 	EXP 	fixationmain: autoDraw = False
+295.8866 	EXP 	text_2: autoDraw = True
+296.0533 	EXP 	Sound  stopped
+296.4533 	DATA 	Keypress: z
+297.1696 	EXP 	text_2: autoDraw = False
+298.0532 	EXP 	Sound  stopped
+298.0534 	EXP 	New trial (rep=0, index=3): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+298.0564 	EXP 	Sound  started
+298.0694 	EXP 	text_2: autoDraw = False
+298.0694 	EXP 	fixationmain: autoDraw = False
+298.0694 	EXP 	text_2: color = u'YELLOW (named)'
+298.0694 	EXP 	text_2: text = u'YELLOW'
+298.0694 	EXP 	fixationmain: autoDraw = True
+298.8691 	EXP 	fixationmain: autoDraw = False
+298.8858 	EXP 	text_2: autoDraw = True
+299.0525 	EXP 	Sound  stopped
+300.1523 	DATA 	Keypress: x
+300.1688 	EXP 	text_2: autoDraw = False
+301.0524 	EXP 	Sound  stopped
+301.0526 	EXP 	New trial (rep=0, index=4): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+301.0555 	EXP 	Sound  started
+301.0685 	EXP 	text_2: autoDraw = False
+301.0685 	EXP 	fixationmain: autoDraw = False
+301.0685 	EXP 	text_2: color = u'GREEN (named)'
+301.0685 	EXP 	text_2: text = u'GREEN'
+301.0685 	EXP 	fixationmain: autoDraw = True
+301.8683 	EXP 	fixationmain: autoDraw = False
+301.8850 	EXP 	text_2: autoDraw = True
+302.0517 	EXP 	Sound  stopped
+302.8182 	DATA 	Keypress: n
+303.1679 	EXP 	text_2: autoDraw = False
+304.0515 	EXP 	Sound  stopped
+304.0517 	EXP 	New trial (rep=0, index=5): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+304.0546 	EXP 	Sound  started
+304.0680 	EXP 	text_2: autoDraw = False
+304.0680 	EXP 	fixationmain: autoDraw = False
+304.0680 	EXP 	text_2: color = u'BLUE (named)'
+304.0680 	EXP 	text_2: text = u'BLUE'
+304.0680 	EXP 	fixationmain: autoDraw = True
+304.8675 	EXP 	fixationmain: autoDraw = False
+304.8841 	EXP 	text_2: autoDraw = True
+305.0508 	EXP 	Sound  stopped
+305.8341 	DATA 	Keypress: m
+306.1672 	EXP 	text_2: autoDraw = False
+307.0508 	EXP 	Sound  stopped
+307.0510 	EXP 	New trial (rep=0, index=6): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+307.0536 	EXP 	Sound  started
+307.0669 	EXP 	text_2: autoDraw = False
+307.0669 	EXP 	fixationmain: autoDraw = False
+307.0669 	EXP 	text_2: color = u'BLUE (named)'
+307.0669 	EXP 	text_2: text = u'BLUE'
+307.0669 	EXP 	fixationmain: autoDraw = True
+307.8667 	EXP 	fixationmain: autoDraw = False
+307.8833 	EXP 	text_2: autoDraw = True
+308.0500 	EXP 	Sound  stopped
+308.3668 	DATA 	Keypress: m
+309.1663 	EXP 	text_2: autoDraw = False
+310.0499 	EXP 	Sound  stopped
+310.0501 	EXP 	New trial (rep=0, index=7): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+310.0526 	EXP 	Sound  started
+310.0661 	EXP 	text_2: autoDraw = False
+310.0661 	EXP 	fixationmain: autoDraw = False
+310.0661 	EXP 	text_2: color = u'BLUE (named)'
+310.0661 	EXP 	text_2: text = u'BLUE'
+310.0661 	EXP 	fixationmain: autoDraw = True
+310.8658 	EXP 	fixationmain: autoDraw = False
+310.8825 	EXP 	text_2: autoDraw = True
+311.0492 	EXP 	Sound  stopped
+311.3159 	DATA 	Keypress: m
+312.1655 	EXP 	text_2: autoDraw = False
+313.0490 	EXP 	Sound  stopped
+313.0493 	EXP 	New trial (rep=0, index=8): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+313.0517 	EXP 	Sound  started
+313.0652 	EXP 	text_2: autoDraw = False
+313.0652 	EXP 	fixationmain: autoDraw = False
+313.0652 	EXP 	text_2: color = u'RED (named)'
+313.0652 	EXP 	text_2: text = u'RED'
+313.0652 	EXP 	fixationmain: autoDraw = True
+313.8651 	EXP 	fixationmain: autoDraw = False
+313.8817 	EXP 	text_2: autoDraw = True
+314.0484 	EXP 	Sound  stopped
+314.6984 	DATA 	Keypress: z
+315.1646 	EXP 	text_2: autoDraw = False
+316.0482 	EXP 	Sound  stopped
+316.0484 	EXP 	New trial (rep=0, index=9): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+316.0509 	EXP 	Sound  started
+316.0644 	EXP 	text_2: autoDraw = False
+316.0644 	EXP 	fixationmain: autoDraw = False
+316.0644 	EXP 	text_2: color = u'RED (named)'
+316.0644 	EXP 	text_2: text = u'RED'
+316.0644 	EXP 	fixationmain: autoDraw = True
+316.8642 	EXP 	fixationmain: autoDraw = False
+316.8809 	EXP 	text_2: autoDraw = True
+317.0478 	EXP 	Sound  stopped
+317.4310 	DATA 	Keypress: z
+318.1638 	EXP 	text_2: autoDraw = False
+319.0474 	EXP 	Sound  stopped
+319.0476 	EXP 	New trial (rep=0, index=10): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+319.0501 	EXP 	Sound  started
+319.0636 	EXP 	text_2: autoDraw = False
+319.0636 	EXP 	fixationmain: autoDraw = False
+319.0636 	EXP 	text_2: color = u'RED (named)'
+319.0636 	EXP 	text_2: text = u'RED'
+319.0636 	EXP 	fixationmain: autoDraw = True
+319.8634 	EXP 	fixationmain: autoDraw = False
+319.8800 	EXP 	text_2: autoDraw = True
+320.0467 	EXP 	Sound  stopped
+320.4468 	DATA 	Keypress: z
+320.8133 	DATA 	Keypress: z
+321.1630 	EXP 	text_2: autoDraw = False
+322.0466 	EXP 	Sound  stopped
+322.0468 	EXP 	New trial (rep=0, index=11): {u'color': u'RED', u'congruent': 0, u'word': u'GREEN', u'corrans': u'z'}
+322.0496 	EXP 	Sound  started
+322.0628 	EXP 	text_2: autoDraw = False
+322.0628 	EXP 	fixationmain: autoDraw = False
+322.0628 	EXP 	text_2: color = u'RED (named)'
+322.0628 	EXP 	text_2: text = u'GREEN'
+322.0628 	EXP 	fixationmain: autoDraw = True
+322.8625 	EXP 	fixationmain: autoDraw = False
+322.8793 	EXP 	text_2: autoDraw = True
+323.0460 	EXP 	Sound  stopped
+323.7292 	DATA 	Keypress: z
+324.1622 	EXP 	text_2: autoDraw = False
+325.0457 	EXP 	Sound  stopped
+325.0459 	EXP 	New trial (rep=0, index=12): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+325.0491 	EXP 	Sound  started
+325.0619 	EXP 	text_2: autoDraw = False
+325.0619 	EXP 	fixationmain: autoDraw = False
+325.0619 	EXP 	text_2: color = u'GREEN (named)'
+325.0619 	EXP 	text_2: text = u'GREEN'
+325.0619 	EXP 	fixationmain: autoDraw = True
+325.8618 	EXP 	fixationmain: autoDraw = False
+325.8784 	EXP 	text_2: autoDraw = True
+326.0451 	EXP 	Sound  stopped
+326.9283 	DATA 	Keypress: n
+327.1614 	EXP 	text_2: autoDraw = False
+328.0450 	EXP 	Sound  stopped
+328.0452 	EXP 	New trial (rep=0, index=13): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+328.0482 	EXP 	Sound  started
+328.0611 	EXP 	text_2: autoDraw = False
+328.0611 	EXP 	fixationmain: autoDraw = False
+328.0611 	EXP 	text_2: color = u'YELLOW (named)'
+328.0611 	EXP 	text_2: text = u'YELLOW'
+328.0611 	EXP 	fixationmain: autoDraw = True
+328.8609 	EXP 	fixationmain: autoDraw = False
+328.8776 	EXP 	text_2: autoDraw = True
+329.0443 	EXP 	Sound  stopped
+329.6109 	DATA 	Keypress: x
+330.1605 	EXP 	text_2: autoDraw = False
+331.0441 	EXP 	Sound  stopped
+331.0443 	EXP 	New trial (rep=0, index=14): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+331.0469 	EXP 	Sound  started
+331.0603 	EXP 	text_2: autoDraw = False
+331.0603 	EXP 	fixationmain: autoDraw = False
+331.0603 	EXP 	text_2: color = u'BLUE (named)'
+331.0603 	EXP 	text_2: text = u'BLUE'
+331.0603 	EXP 	fixationmain: autoDraw = True
+331.8601 	EXP 	fixationmain: autoDraw = False
+331.8768 	EXP 	text_2: autoDraw = True
+332.0435 	EXP 	Sound  stopped
+332.6768 	DATA 	Keypress: m
+333.1597 	EXP 	text_2: autoDraw = False
+334.0435 	EXP 	Sound  stopped
+334.0437 	EXP 	New trial (rep=0, index=15): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+334.0466 	EXP 	Sound  started
+334.0595 	EXP 	text_2: autoDraw = False
+334.0595 	EXP 	fixationmain: autoDraw = False
+334.0595 	EXP 	text_2: color = u'YELLOW (named)'
+334.0595 	EXP 	text_2: text = u'YELLOW'
+334.0595 	EXP 	fixationmain: autoDraw = True
+334.8593 	EXP 	fixationmain: autoDraw = False
+334.8760 	EXP 	text_2: autoDraw = True
+335.0427 	EXP 	Sound  stopped
+335.6093 	DATA 	Keypress: x
+336.1589 	EXP 	text_2: autoDraw = False
+337.0425 	EXP 	Sound  stopped
+337.0427 	EXP 	New trial (rep=0, index=16): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+337.0451 	EXP 	Sound  started
+337.0587 	EXP 	text_2: autoDraw = False
+337.0587 	EXP 	fixationmain: autoDraw = False
+337.0587 	EXP 	text_2: color = u'RED (named)'
+337.0587 	EXP 	text_2: text = u'RED'
+337.0587 	EXP 	fixationmain: autoDraw = True
+337.8585 	EXP 	fixationmain: autoDraw = False
+337.8751 	EXP 	text_2: autoDraw = True
+338.0418 	EXP 	Sound  stopped
+338.6085 	DATA 	Keypress: z
+339.1581 	EXP 	text_2: autoDraw = False
+340.0418 	EXP 	Sound  stopped
+340.0420 	EXP 	New trial (rep=0, index=17): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+340.0448 	EXP 	Sound  started
+340.0578 	EXP 	text_2: autoDraw = False
+340.0578 	EXP 	fixationmain: autoDraw = False
+340.0578 	EXP 	text_2: color = u'GREEN (named)'
+340.0578 	EXP 	text_2: text = u'GREEN'
+340.0578 	EXP 	fixationmain: autoDraw = True
+340.8576 	EXP 	fixationmain: autoDraw = False
+340.8743 	EXP 	text_2: autoDraw = True
+341.0411 	EXP 	Sound  stopped
+341.7742 	DATA 	Keypress: n
+342.1573 	EXP 	text_2: autoDraw = False
+343.0408 	EXP 	Sound  stopped
+343.0410 	EXP 	New trial (rep=0, index=18): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'z'}
+343.0442 	EXP 	Sound  started
+343.0570 	EXP 	text_2: autoDraw = False
+343.0570 	EXP 	fixationmain: autoDraw = False
+343.0570 	EXP 	text_2: color = u'YELLOW (named)'
+343.0570 	EXP 	text_2: text = u'YELLOW'
+343.0570 	EXP 	fixationmain: autoDraw = True
+343.8568 	EXP 	fixationmain: autoDraw = False
+343.8735 	EXP 	text_2: autoDraw = True
+344.0401 	EXP 	Sound  stopped
+344.4902 	DATA 	Keypress: x
+345.1567 	EXP 	text_2: autoDraw = False
+346.0401 	EXP 	Sound  stopped
+346.0403 	EXP 	New trial (rep=0, index=19): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+346.0428 	EXP 	Sound  started
+346.0564 	EXP 	text_2: autoDraw = False
+346.0564 	EXP 	fixationmain: autoDraw = False
+346.0564 	EXP 	text_2: color = u'RED (named)'
+346.0564 	EXP 	text_2: text = u'RED'
+346.0564 	EXP 	fixationmain: autoDraw = True
+346.8560 	EXP 	fixationmain: autoDraw = False
+346.8727 	EXP 	text_2: autoDraw = True
+347.0394 	EXP 	Sound  stopped
+347.7226 	DATA 	Keypress: z
+348.1556 	EXP 	text_2: autoDraw = False
+349.0392 	EXP 	Sound  stopped
+349.0394 	EXP 	New trial (rep=0, index=20): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+349.0419 	EXP 	Sound  started
+349.0554 	EXP 	text_2: autoDraw = False
+349.0554 	EXP 	fixationmain: autoDraw = False
+349.0554 	EXP 	text_2: color = u'BLUE (named)'
+349.0554 	EXP 	text_2: text = u'BLUE'
+349.0554 	EXP 	fixationmain: autoDraw = True
+349.8552 	EXP 	fixationmain: autoDraw = False
+349.8718 	EXP 	text_2: autoDraw = True
+350.0386 	EXP 	Sound  stopped
+350.7551 	DATA 	Keypress: m
+351.1548 	EXP 	text_2: autoDraw = False
+352.0384 	EXP 	Sound  stopped
+352.0386 	EXP 	New trial (rep=0, index=21): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+352.0415 	EXP 	Sound  started
+352.0545 	EXP 	text_2: autoDraw = False
+352.0545 	EXP 	fixationmain: autoDraw = False
+352.0545 	EXP 	text_2: color = u'GREEN (named)'
+352.0545 	EXP 	text_2: text = u'GREEN'
+352.0545 	EXP 	fixationmain: autoDraw = True
+352.8544 	EXP 	fixationmain: autoDraw = False
+352.8710 	EXP 	text_2: autoDraw = True
+353.0377 	EXP 	Sound  stopped
+353.7377 	DATA 	Keypress: n
+354.1540 	EXP 	text_2: autoDraw = False
+355.0375 	EXP 	Sound  stopped
+355.0377 	EXP 	New trial (rep=0, index=22): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+355.0407 	EXP 	Sound  started
+355.0538 	EXP 	text_2: autoDraw = False
+355.0538 	EXP 	fixationmain: autoDraw = False
+355.0538 	EXP 	text_2: color = u'YELLOW (named)'
+355.0538 	EXP 	text_2: text = u'YELLOW'
+355.0538 	EXP 	fixationmain: autoDraw = True
+355.8535 	EXP 	fixationmain: autoDraw = False
+355.8702 	EXP 	text_2: autoDraw = True
+356.0369 	EXP 	Sound  stopped
+356.6036 	DATA 	Keypress: x
+357.1532 	EXP 	text_2: autoDraw = False
+358.0368 	EXP 	Sound  stopped
+358.0370 	EXP 	New trial (rep=0, index=23): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+358.0399 	EXP 	Sound  started
+358.0529 	EXP 	text_2: autoDraw = False
+358.0529 	EXP 	fixationmain: autoDraw = False
+358.0529 	EXP 	text_2: color = u'YELLOW (named)'
+358.0529 	EXP 	text_2: text = u'YELLOW'
+358.0529 	EXP 	fixationmain: autoDraw = True
+358.8527 	EXP 	fixationmain: autoDraw = False
+358.8694 	EXP 	text_2: autoDraw = True
+359.0361 	EXP 	Sound  stopped
+359.4361 	DATA 	Keypress: x
+360.1523 	EXP 	text_2: autoDraw = False
+361.0359 	EXP 	Sound  stopped
+361.0361 	EXP 	New trial (rep=0, index=24): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+361.0387 	EXP 	Sound  started
+361.0521 	EXP 	text_2: autoDraw = False
+361.0521 	EXP 	fixationmain: autoDraw = False
+361.0521 	EXP 	text_2: color = u'BLUE (named)'
+361.0521 	EXP 	text_2: text = u'BLUE'
+361.0521 	EXP 	fixationmain: autoDraw = True
+361.8519 	EXP 	fixationmain: autoDraw = False
+361.8686 	EXP 	text_2: autoDraw = True
+362.0352 	EXP 	Sound  stopped
+362.5186 	DATA 	Keypress: m
+363.1515 	EXP 	text_2: autoDraw = False
+364.0351 	EXP 	Sound  stopped
+364.0353 	EXP 	New trial (rep=0, index=25): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+364.0382 	EXP 	Sound  started
+364.0513 	EXP 	text_2: autoDraw = False
+364.0513 	EXP 	fixationmain: autoDraw = False
+364.0513 	EXP 	text_2: color = u'BLUE (named)'
+364.0513 	EXP 	text_2: text = u'BLUE'
+364.0513 	EXP 	fixationmain: autoDraw = True
+364.8511 	EXP 	fixationmain: autoDraw = False
+364.8677 	EXP 	text_2: autoDraw = True
+365.0345 	EXP 	Sound  stopped
+365.3512 	DATA 	Keypress: m
+366.1507 	EXP 	text_2: autoDraw = False
+367.0342 	EXP 	Sound  stopped
+367.0344 	EXP 	New trial (rep=0, index=26): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+367.0370 	EXP 	Sound  started
+367.0505 	EXP 	text_2: autoDraw = False
+367.0505 	EXP 	fixationmain: autoDraw = False
+367.0505 	EXP 	text_2: color = u'BLUE (named)'
+367.0505 	EXP 	text_2: text = u'BLUE'
+367.0505 	EXP 	fixationmain: autoDraw = True
+367.8502 	EXP 	fixationmain: autoDraw = False
+367.8669 	EXP 	text_2: autoDraw = True
+368.0337 	EXP 	Sound  stopped
+368.2836 	DATA 	Keypress: m
+369.1499 	EXP 	text_2: autoDraw = False
+370.0334 	EXP 	Sound  stopped
+370.0336 	EXP 	New trial (rep=0, index=27): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+370.0362 	EXP 	Sound  started
+370.0496 	EXP 	text_2: autoDraw = False
+370.0496 	EXP 	fixationmain: autoDraw = False
+370.0496 	EXP 	text_2: color = u'BLUE (named)'
+370.0496 	EXP 	text_2: text = u'BLUE'
+370.0496 	EXP 	fixationmain: autoDraw = True
+370.8494 	EXP 	fixationmain: autoDraw = False
+370.8660 	EXP 	text_2: autoDraw = True
+371.0328 	EXP 	Sound  stopped
+371.2662 	DATA 	Keypress: m
+372.1491 	EXP 	text_2: autoDraw = False
+373.0326 	EXP 	Sound  stopped
+373.0328 	EXP 	New trial (rep=0, index=28): {u'color': u'GREEN', u'congruent': 0, u'word': u'BLUE', u'corrans': u'n'}
+373.0354 	EXP 	Sound  started
+373.0488 	EXP 	text_2: autoDraw = False
+373.0488 	EXP 	fixationmain: autoDraw = False
+373.0488 	EXP 	text_2: color = u'GREEN (named)'
+373.0488 	EXP 	text_2: text = u'BLUE'
+373.0488 	EXP 	fixationmain: autoDraw = True
+373.8486 	EXP 	fixationmain: autoDraw = False
+373.8653 	EXP 	text_2: autoDraw = True
+374.0320 	EXP 	Sound  stopped
+374.6820 	DATA 	Keypress: n
+375.1482 	EXP 	text_2: autoDraw = False
+376.0318 	EXP 	Sound  stopped
+376.0320 	EXP 	New trial (rep=0, index=29): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+376.0345 	EXP 	Sound  started
+376.0480 	EXP 	text_2: autoDraw = False
+376.0480 	EXP 	fixationmain: autoDraw = False
+376.0480 	EXP 	text_2: color = u'RED (named)'
+376.0480 	EXP 	text_2: text = u'RED'
+376.0480 	EXP 	fixationmain: autoDraw = True
+376.8478 	EXP 	fixationmain: autoDraw = False
+376.8644 	EXP 	text_2: autoDraw = True
+377.0311 	EXP 	Sound  stopped
+377.5491 	DATA 	Keypress: z
+378.1474 	EXP 	text_2: autoDraw = False
+379.0310 	EXP 	Sound  stopped
+379.0313 	EXP 	New trial (rep=0, index=30): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+379.0350 	EXP 	Sound  started
+379.0471 	EXP 	text_2: autoDraw = False
+379.0471 	EXP 	fixationmain: autoDraw = False
+379.0471 	EXP 	text_2: color = u'GREEN (named)'
+379.0471 	EXP 	text_2: text = u'GREEN'
+379.0471 	EXP 	fixationmain: autoDraw = True
+379.8469 	EXP 	fixationmain: autoDraw = False
+379.8636 	EXP 	text_2: autoDraw = True
+380.0304 	EXP 	Sound  stopped
+380.8135 	DATA 	Keypress: n
+381.1466 	EXP 	text_2: autoDraw = False
+382.0301 	EXP 	Sound  stopped
+382.0303 	EXP 	New trial (rep=0, index=31): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+382.0332 	EXP 	Sound  started
+382.0463 	EXP 	text_2: autoDraw = False
+382.0463 	EXP 	fixationmain: autoDraw = False
+382.0463 	EXP 	text_2: color = u'GREEN (named)'
+382.0463 	EXP 	text_2: text = u'GREEN'
+382.0463 	EXP 	fixationmain: autoDraw = True
+382.8461 	EXP 	fixationmain: autoDraw = False
+382.8628 	EXP 	text_2: autoDraw = True
+383.0295 	EXP 	Sound  stopped
+383.5962 	DATA 	Keypress: n
+384.1458 	EXP 	text_2: autoDraw = False
+385.0294 	EXP 	Sound  stopped
+385.0297 	EXP 	New trial (rep=0, index=32): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+385.0329 	EXP 	Sound  started
+385.0455 	EXP 	text_2: autoDraw = False
+385.0455 	EXP 	fixationmain: autoDraw = False
+385.0455 	EXP 	text_2: color = u'YELLOW (named)'
+385.0455 	EXP 	text_2: text = u'YELLOW'
+385.0455 	EXP 	fixationmain: autoDraw = True
+385.8453 	EXP 	fixationmain: autoDraw = False
+385.8620 	EXP 	text_2: autoDraw = True
+386.0287 	EXP 	Sound  stopped
+386.5787 	DATA 	Keypress: x
+387.1451 	EXP 	text_2: autoDraw = False
+388.0285 	EXP 	Sound  stopped
+388.0287 	EXP 	New trial (rep=0, index=33): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+388.0315 	EXP 	Sound  started
+388.0450 	EXP 	text_2: autoDraw = False
+388.0450 	EXP 	fixationmain: autoDraw = False
+388.0450 	EXP 	text_2: color = u'BLUE (named)'
+388.0450 	EXP 	text_2: text = u'GREEN'
+388.0450 	EXP 	fixationmain: autoDraw = True
+388.8446 	EXP 	fixationmain: autoDraw = False
+388.8611 	EXP 	text_2: autoDraw = True
+389.0278 	EXP 	Sound  stopped
+389.5612 	DATA 	Keypress: m
+390.1442 	EXP 	text_2: autoDraw = False
+391.0278 	EXP 	Sound  stopped
+391.0280 	EXP 	New trial (rep=0, index=34): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+391.0308 	EXP 	Sound  started
+391.0439 	EXP 	text_2: autoDraw = False
+391.0439 	EXP 	fixationmain: autoDraw = False
+391.0439 	EXP 	text_2: color = u'GREEN (named)'
+391.0439 	EXP 	text_2: text = u'GREEN'
+391.0439 	EXP 	fixationmain: autoDraw = True
+391.8436 	EXP 	fixationmain: autoDraw = False
+391.8604 	EXP 	text_2: autoDraw = True
+392.0271 	EXP 	Sound  stopped
+392.6436 	DATA 	Keypress: n
+393.1433 	EXP 	text_2: autoDraw = False
+394.0268 	EXP 	Sound  stopped
+394.0270 	EXP 	New trial (rep=0, index=35): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+394.0300 	EXP 	Sound  started
+394.0431 	EXP 	text_2: autoDraw = False
+394.0431 	EXP 	fixationmain: autoDraw = False
+394.0431 	EXP 	text_2: color = u'YELLOW (named)'
+394.0431 	EXP 	text_2: text = u'YELLOW'
+394.0431 	EXP 	fixationmain: autoDraw = True
+394.8428 	EXP 	fixationmain: autoDraw = False
+394.8595 	EXP 	text_2: autoDraw = True
+395.0262 	EXP 	Sound  stopped
+395.6930 	DATA 	Keypress: x
+396.1425 	EXP 	text_2: autoDraw = False
+397.0261 	EXP 	Sound  stopped
+397.0263 	EXP 	New trial (rep=0, index=36): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+397.0292 	EXP 	Sound  started
+397.0422 	EXP 	text_2: autoDraw = False
+397.0422 	EXP 	fixationmain: autoDraw = False
+397.0422 	EXP 	text_2: color = u'GREEN (named)'
+397.0422 	EXP 	text_2: text = u'GREEN'
+397.0422 	EXP 	fixationmain: autoDraw = True
+397.8421 	EXP 	fixationmain: autoDraw = False
+397.8587 	EXP 	text_2: autoDraw = True
+398.0254 	EXP 	Sound  stopped
+398.9420 	DATA 	Keypress: n
+399.1417 	EXP 	text_2: autoDraw = False
+400.0252 	EXP 	Sound  stopped
+400.0254 	EXP 	New trial (rep=0, index=37): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+400.0279 	EXP 	Sound  started
+400.0415 	EXP 	text_2: autoDraw = False
+400.0415 	EXP 	fixationmain: autoDraw = False
+400.0415 	EXP 	text_2: color = u'RED (named)'
+400.0415 	EXP 	text_2: text = u'RED'
+400.0415 	EXP 	fixationmain: autoDraw = True
+400.8412 	EXP 	fixationmain: autoDraw = False
+400.8579 	EXP 	text_2: autoDraw = True
+401.0245 	EXP 	Sound  stopped
+401.6578 	DATA 	Keypress: z
+402.1409 	EXP 	text_2: autoDraw = False
+403.0245 	EXP 	Sound  stopped
+403.0247 	EXP 	New trial (rep=0, index=38): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'z'}
+403.0275 	EXP 	Sound  started
+403.0406 	EXP 	text_2: autoDraw = False
+403.0406 	EXP 	fixationmain: autoDraw = False
+403.0406 	EXP 	text_2: color = u'BLUE (named)'
+403.0406 	EXP 	text_2: text = u'BLUE'
+403.0406 	EXP 	fixationmain: autoDraw = True
+403.8404 	EXP 	fixationmain: autoDraw = False
+403.8570 	EXP 	text_2: autoDraw = True
+404.0237 	EXP 	Sound  stopped
+404.9070 	DATA 	Keypress: m
+405.1400 	EXP 	text_2: autoDraw = False
+406.0235 	EXP 	Sound  stopped
+406.0238 	EXP 	New trial (rep=0, index=39): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+406.0262 	EXP 	Sound  started
+406.0398 	EXP 	text_2: autoDraw = False
+406.0398 	EXP 	fixationmain: autoDraw = False
+406.0398 	EXP 	text_2: color = u'RED (named)'
+406.0398 	EXP 	text_2: text = u'RED'
+406.0398 	EXP 	fixationmain: autoDraw = True
+406.8395 	EXP 	fixationmain: autoDraw = False
+406.8562 	EXP 	text_2: autoDraw = True
+407.0230 	EXP 	Sound  stopped
+407.5062 	DATA 	Keypress: z
+408.1392 	EXP 	text_2: autoDraw = False
+409.0228 	EXP 	Sound  stopped
+409.0390 	EXP 	text_2: autoDraw = False
+409.0390 	EXP 	fixationmain: autoDraw = False
+409.0390 	EXP 	rest_text: text = '+'
+409.0390 	EXP 	rest_text: autoDraw = True
+469.0355 	EXP 	Imported Stroopmain-short-in-10event x 4.xlsx as conditions, 40 conditions, 4 params
+469.0360 	EXP 	Created sequence: random, trialTypes=40, nReps=1, seed=None
+469.0371 	EXP 	New trial (rep=0, index=0): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+469.0398 	EXP 	Sound  started
+469.0559 	EXP 	rest_text: autoDraw = False
+469.0559 	EXP 	rest_text: autoDraw = False
+469.0559 	EXP 	text_2: color = u'GREEN (named)'
+469.0559 	EXP 	text_2: text = u'RED'
+469.0559 	EXP 	fixationmain: autoDraw = True
+469.8556 	EXP 	text_2: autoDraw = True
+469.8556 	EXP 	fixationmain: autoDraw = False
+470.0390 	EXP 	Sound  stopped
+470.9389 	DATA 	Keypress: n
+471.1553 	EXP 	text_2: autoDraw = False
+472.0393 	EXP 	Sound  stopped
+472.0395 	EXP 	New trial (rep=0, index=1): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'm'}
+472.0420 	EXP 	Sound  started
+472.0550 	EXP 	text_2: autoDraw = False
+472.0550 	EXP 	fixationmain: autoDraw = False
+472.0550 	EXP 	text_2: color = u'GREEN (named)'
+472.0550 	EXP 	text_2: text = u'RED'
+472.0550 	EXP 	fixationmain: autoDraw = True
+472.8549 	EXP 	fixationmain: autoDraw = False
+472.8715 	EXP 	text_2: autoDraw = True
+473.0382 	EXP 	Sound  stopped
+473.3882 	DATA 	Keypress: n
+474.1545 	EXP 	text_2: autoDraw = False
+475.0381 	EXP 	Sound  stopped
+475.0383 	EXP 	New trial (rep=0, index=2): {u'color': u'BLUE', u'congruent': 0, u'word': u'RED', u'corrans': u'm'}
+475.0408 	EXP 	Sound  started
+475.0542 	EXP 	text_2: autoDraw = False
+475.0542 	EXP 	fixationmain: autoDraw = False
+475.0542 	EXP 	text_2: color = u'BLUE (named)'
+475.0542 	EXP 	text_2: text = u'RED'
+475.0542 	EXP 	fixationmain: autoDraw = True
+475.8540 	EXP 	fixationmain: autoDraw = False
+475.8706 	EXP 	text_2: autoDraw = True
+476.0374 	EXP 	Sound  stopped
+476.4541 	DATA 	Keypress: m
+477.1537 	EXP 	text_2: autoDraw = False
+478.0373 	EXP 	Sound  stopped
+478.0375 	EXP 	New trial (rep=0, index=3): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+478.0401 	EXP 	Sound  started
+478.0534 	EXP 	text_2: autoDraw = False
+478.0534 	EXP 	fixationmain: autoDraw = False
+478.0534 	EXP 	text_2: color = u'RED (named)'
+478.0534 	EXP 	text_2: text = u'BLUE'
+478.0534 	EXP 	fixationmain: autoDraw = True
+478.8532 	EXP 	fixationmain: autoDraw = False
+478.8699 	EXP 	text_2: autoDraw = True
+479.0365 	EXP 	Sound  stopped
+479.6198 	DATA 	Keypress: z
+480.1528 	EXP 	text_2: autoDraw = False
+481.0364 	EXP 	Sound  stopped
+481.0366 	EXP 	New trial (rep=0, index=4): {u'color': u'YELLOW', u'congruent': 0, u'word': u'BLUE', u'corrans': u'x'}
+481.0391 	EXP 	Sound  started
+481.0526 	EXP 	text_2: autoDraw = False
+481.0526 	EXP 	fixationmain: autoDraw = False
+481.0526 	EXP 	text_2: color = u'YELLOW (named)'
+481.0526 	EXP 	text_2: text = u'BLUE'
+481.0526 	EXP 	fixationmain: autoDraw = True
+481.8523 	EXP 	fixationmain: autoDraw = False
+481.8690 	EXP 	text_2: autoDraw = True
+482.0357 	EXP 	Sound  stopped
+482.5690 	DATA 	Keypress: x
+483.1522 	EXP 	text_2: autoDraw = False
+484.0356 	EXP 	Sound  stopped
+484.0358 	EXP 	New trial (rep=0, index=5): {u'color': u'BLUE', u'congruent': 0, u'word': u'RED', u'corrans': u'm'}
+484.0383 	EXP 	Sound  started
+484.0517 	EXP 	text_2: autoDraw = False
+484.0517 	EXP 	fixationmain: autoDraw = False
+484.0517 	EXP 	text_2: color = u'BLUE (named)'
+484.0517 	EXP 	text_2: text = u'RED'
+484.0517 	EXP 	fixationmain: autoDraw = True
+484.8517 	EXP 	fixationmain: autoDraw = False
+484.8682 	EXP 	text_2: autoDraw = True
+485.0350 	EXP 	Sound  stopped
+485.8015 	DATA 	Keypress: m
+486.1512 	EXP 	text_2: autoDraw = False
+487.0347 	EXP 	Sound  stopped
+487.0350 	EXP 	New trial (rep=0, index=6): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+487.0375 	EXP 	Sound  started
+487.0509 	EXP 	text_2: autoDraw = False
+487.0509 	EXP 	fixationmain: autoDraw = False
+487.0509 	EXP 	text_2: color = u'RED (named)'
+487.0509 	EXP 	text_2: text = u'BLUE'
+487.0509 	EXP 	fixationmain: autoDraw = True
+487.8507 	EXP 	fixationmain: autoDraw = False
+487.8674 	EXP 	text_2: autoDraw = True
+488.0341 	EXP 	Sound  stopped
+488.6341 	DATA 	Keypress: z
+489.1504 	EXP 	text_2: autoDraw = False
+490.0340 	EXP 	Sound  stopped
+490.0342 	EXP 	New trial (rep=0, index=7): {u'color': u'RED', u'congruent': 0, u'word': u'RED', u'corrans': u'z'}
+490.0369 	EXP 	Sound  started
+490.0501 	EXP 	text_2: autoDraw = False
+490.0501 	EXP 	fixationmain: autoDraw = False
+490.0501 	EXP 	text_2: color = u'RED (named)'
+490.0501 	EXP 	text_2: text = u'RED'
+490.0501 	EXP 	fixationmain: autoDraw = True
+490.8499 	EXP 	fixationmain: autoDraw = False
+490.8665 	EXP 	text_2: autoDraw = True
+491.0333 	EXP 	Sound  stopped
+491.3333 	DATA 	Keypress: z
+492.1495 	EXP 	text_2: autoDraw = False
+493.0331 	EXP 	Sound  stopped
+493.0333 	EXP 	New trial (rep=0, index=8): {u'color': u'BLUE', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'm'}
+493.0362 	EXP 	Sound  started
+493.0493 	EXP 	text_2: autoDraw = False
+493.0493 	EXP 	fixationmain: autoDraw = False
+493.0493 	EXP 	text_2: color = u'BLUE (named)'
+493.0493 	EXP 	text_2: text = u'YELLOW'
+493.0493 	EXP 	fixationmain: autoDraw = True
+493.8491 	EXP 	fixationmain: autoDraw = False
+493.8658 	EXP 	text_2: autoDraw = True
+494.0325 	EXP 	Sound  stopped
+494.6991 	DATA 	Keypress: m
+495.1487 	EXP 	text_2: autoDraw = False
+496.0323 	EXP 	Sound  stopped
+496.0325 	EXP 	New trial (rep=0, index=9): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+496.0354 	EXP 	Sound  started
+496.0485 	EXP 	text_2: autoDraw = False
+496.0485 	EXP 	fixationmain: autoDraw = False
+496.0485 	EXP 	text_2: color = u'BLUE (named)'
+496.0485 	EXP 	text_2: text = u'GREEN'
+496.0485 	EXP 	fixationmain: autoDraw = True
+496.8483 	EXP 	fixationmain: autoDraw = False
+496.8649 	EXP 	text_2: autoDraw = True
+497.0316 	EXP 	Sound  stopped
+497.2817 	DATA 	Keypress: m
+498.1479 	EXP 	text_2: autoDraw = False
+499.0314 	EXP 	Sound  stopped
+499.0316 	EXP 	New trial (rep=0, index=10): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+499.0350 	EXP 	Sound  started
+499.0477 	EXP 	text_2: autoDraw = False
+499.0477 	EXP 	fixationmain: autoDraw = False
+499.0477 	EXP 	text_2: color = u'YELLOW (named)'
+499.0477 	EXP 	text_2: text = u'GREEN'
+499.0477 	EXP 	fixationmain: autoDraw = True
+499.8474 	EXP 	fixationmain: autoDraw = False
+499.8641 	EXP 	text_2: autoDraw = True
+500.0309 	EXP 	Sound  stopped
+500.6141 	DATA 	Keypress: x
+501.1471 	EXP 	text_2: autoDraw = False
+502.0310 	EXP 	Sound  stopped
+502.0313 	EXP 	New trial (rep=0, index=11): {u'color': u'BLUE', u'congruent': 1, u'word': u'BLUE', u'corrans': u'm'}
+502.0356 	EXP 	Sound  started
+502.0468 	EXP 	text_2: autoDraw = False
+502.0468 	EXP 	fixationmain: autoDraw = False
+502.0468 	EXP 	text_2: color = u'BLUE (named)'
+502.0468 	EXP 	text_2: text = u'BLUE'
+502.0468 	EXP 	fixationmain: autoDraw = True
+502.8466 	EXP 	fixationmain: autoDraw = False
+502.8633 	EXP 	text_2: autoDraw = True
+503.0300 	EXP 	Sound  stopped
+504.0298 	DATA 	Keypress: m
+504.1462 	EXP 	text_2: autoDraw = False
+505.0298 	EXP 	Sound  stopped
+505.0300 	EXP 	New trial (rep=0, index=12): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+505.0336 	EXP 	Sound  started
+505.0460 	EXP 	text_2: autoDraw = False
+505.0460 	EXP 	fixationmain: autoDraw = False
+505.0460 	EXP 	text_2: color = u'BLUE (named)'
+505.0460 	EXP 	text_2: text = u'GREEN'
+505.0460 	EXP 	fixationmain: autoDraw = True
+505.8458 	EXP 	fixationmain: autoDraw = False
+505.8625 	EXP 	text_2: autoDraw = True
+506.0293 	EXP 	Sound  stopped
+506.4126 	DATA 	Keypress: m
+507.1455 	EXP 	text_2: autoDraw = False
+508.0290 	EXP 	Sound  stopped
+508.0292 	EXP 	New trial (rep=0, index=13): {u'color': u'YELLOW', u'congruent': 0, u'word': u'BLUE', u'corrans': u'x'}
+508.0321 	EXP 	Sound  started
+508.0452 	EXP 	text_2: autoDraw = False
+508.0452 	EXP 	fixationmain: autoDraw = False
+508.0452 	EXP 	text_2: color = u'YELLOW (named)'
+508.0452 	EXP 	text_2: text = u'BLUE'
+508.0452 	EXP 	fixationmain: autoDraw = True
+508.8450 	EXP 	fixationmain: autoDraw = False
+508.8616 	EXP 	text_2: autoDraw = True
+509.0283 	EXP 	Sound  stopped
+509.5116 	DATA 	Keypress: x
+510.1446 	EXP 	text_2: autoDraw = False
+511.0286 	EXP 	Sound  stopped
+511.0288 	EXP 	New trial (rep=0, index=14): {u'color': u'GREEN', u'congruent': 1, u'word': u'GREEN', u'corrans': u'n'}
+511.0323 	EXP 	Sound  started
+511.0444 	EXP 	text_2: autoDraw = False
+511.0444 	EXP 	fixationmain: autoDraw = False
+511.0444 	EXP 	text_2: color = u'GREEN (named)'
+511.0444 	EXP 	text_2: text = u'GREEN'
+511.0444 	EXP 	fixationmain: autoDraw = True
+511.8442 	EXP 	fixationmain: autoDraw = False
+511.8608 	EXP 	text_2: autoDraw = True
+512.0276 	EXP 	Sound  stopped
+512.6941 	DATA 	Keypress: n
+513.1438 	EXP 	text_2: autoDraw = False
+514.0274 	EXP 	Sound  stopped
+514.0276 	EXP 	New trial (rep=0, index=15): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+514.0301 	EXP 	Sound  started
+514.0435 	EXP 	text_2: autoDraw = False
+514.0435 	EXP 	fixationmain: autoDraw = False
+514.0435 	EXP 	text_2: color = u'GREEN (named)'
+514.0435 	EXP 	text_2: text = u'RED'
+514.0435 	EXP 	fixationmain: autoDraw = True
+514.8434 	EXP 	fixationmain: autoDraw = False
+514.8600 	EXP 	text_2: autoDraw = True
+515.0267 	EXP 	Sound  stopped
+515.4934 	DATA 	Keypress: n
+516.1430 	EXP 	text_2: autoDraw = False
+517.0267 	EXP 	Sound  stopped
+517.0269 	EXP 	New trial (rep=0, index=16): {u'color': u'GREEN', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'n'}
+517.0307 	EXP 	Sound  started
+517.0427 	EXP 	text_2: autoDraw = False
+517.0427 	EXP 	fixationmain: autoDraw = False
+517.0427 	EXP 	text_2: color = u'GREEN (named)'
+517.0427 	EXP 	text_2: text = u'YELLOW'
+517.0427 	EXP 	fixationmain: autoDraw = True
+517.8425 	EXP 	fixationmain: autoDraw = False
+517.8592 	EXP 	text_2: autoDraw = True
+518.0260 	EXP 	Sound  stopped
+518.3759 	DATA 	Keypress: n
+519.1421 	EXP 	text_2: autoDraw = False
+520.0257 	EXP 	Sound  stopped
+520.0259 	EXP 	New trial (rep=0, index=17): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'z'}
+520.0288 	EXP 	Sound  started
+520.0419 	EXP 	text_2: autoDraw = False
+520.0419 	EXP 	fixationmain: autoDraw = False
+520.0419 	EXP 	text_2: color = u'BLUE (named)'
+520.0419 	EXP 	text_2: text = u'GREEN'
+520.0419 	EXP 	fixationmain: autoDraw = True
+520.8417 	EXP 	fixationmain: autoDraw = False
+520.8584 	EXP 	text_2: autoDraw = True
+521.0250 	EXP 	Sound  stopped
+521.8083 	DATA 	Keypress: m
+522.1414 	EXP 	text_2: autoDraw = False
+523.0250 	EXP 	Sound  stopped
+523.0252 	EXP 	New trial (rep=0, index=18): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+523.0281 	EXP 	Sound  started
+523.0411 	EXP 	text_2: autoDraw = False
+523.0411 	EXP 	fixationmain: autoDraw = False
+523.0411 	EXP 	text_2: color = u'YELLOW (named)'
+523.0411 	EXP 	text_2: text = u'GREEN'
+523.0411 	EXP 	fixationmain: autoDraw = True
+523.8409 	EXP 	fixationmain: autoDraw = False
+523.8576 	EXP 	text_2: autoDraw = True
+524.0243 	EXP 	Sound  stopped
+524.8575 	DATA 	Keypress: x
+525.1405 	EXP 	text_2: autoDraw = False
+526.0241 	EXP 	Sound  stopped
+526.0243 	EXP 	New trial (rep=0, index=19): {u'color': u'RED', u'congruent': 0, u'word': u'GREEN', u'corrans': u'z'}
+526.0274 	EXP 	Sound  started
+526.0404 	EXP 	text_2: autoDraw = False
+526.0404 	EXP 	fixationmain: autoDraw = False
+526.0404 	EXP 	text_2: color = u'RED (named)'
+526.0404 	EXP 	text_2: text = u'GREEN'
+526.0404 	EXP 	fixationmain: autoDraw = True
+526.8401 	EXP 	fixationmain: autoDraw = False
+526.8567 	EXP 	text_2: autoDraw = True
+527.0234 	EXP 	Sound  stopped
+527.5734 	DATA 	Keypress: z
+528.1397 	EXP 	text_2: autoDraw = False
+529.0234 	EXP 	Sound  stopped
+529.0236 	EXP 	New trial (rep=0, index=20): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+529.0264 	EXP 	Sound  started
+529.0394 	EXP 	text_2: autoDraw = False
+529.0394 	EXP 	fixationmain: autoDraw = False
+529.0394 	EXP 	text_2: color = u'YELLOW (named)'
+529.0394 	EXP 	text_2: text = u'GREEN'
+529.0394 	EXP 	fixationmain: autoDraw = True
+529.8395 	EXP 	fixationmain: autoDraw = False
+529.8559 	EXP 	text_2: autoDraw = True
+530.0227 	EXP 	Sound  stopped
+530.7558 	DATA 	Keypress: x
+531.1388 	EXP 	text_2: autoDraw = False
+532.0224 	EXP 	Sound  stopped
+532.0226 	EXP 	New trial (rep=0, index=21): {u'color': u'GREEN', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'n'}
+532.0256 	EXP 	Sound  started
+532.0387 	EXP 	text_2: autoDraw = False
+532.0387 	EXP 	fixationmain: autoDraw = False
+532.0387 	EXP 	text_2: color = u'GREEN (named)'
+532.0387 	EXP 	text_2: text = u'YELLOW'
+532.0387 	EXP 	fixationmain: autoDraw = True
+532.8384 	EXP 	fixationmain: autoDraw = False
+532.8551 	EXP 	text_2: autoDraw = True
+533.0218 	EXP 	Sound  stopped
+533.7884 	DATA 	Keypress: n
+534.1381 	EXP 	text_2: autoDraw = False
+535.0217 	EXP 	Sound  stopped
+535.0219 	EXP 	New trial (rep=0, index=22): {u'color': u'YELLOW', u'congruent': 0, u'word': u'RED', u'corrans': u'z'}
+535.0243 	EXP 	Sound  started
+535.0378 	EXP 	text_2: autoDraw = False
+535.0378 	EXP 	fixationmain: autoDraw = False
+535.0378 	EXP 	text_2: color = u'YELLOW (named)'
+535.0378 	EXP 	text_2: text = u'RED'
+535.0378 	EXP 	fixationmain: autoDraw = True
+535.8376 	EXP 	fixationmain: autoDraw = False
+535.8543 	EXP 	text_2: autoDraw = True
+536.0209 	EXP 	Sound  stopped
+536.7042 	DATA 	Keypress: x
+537.1372 	EXP 	text_2: autoDraw = False
+538.0208 	EXP 	Sound  stopped
+538.0210 	EXP 	New trial (rep=0, index=23): {u'color': u'YELLOW', u'congruent': 1, u'word': u'YELLOW', u'corrans': u'x'}
+538.0240 	EXP 	Sound  started
+538.0371 	EXP 	text_2: autoDraw = False
+538.0371 	EXP 	fixationmain: autoDraw = False
+538.0371 	EXP 	text_2: color = u'YELLOW (named)'
+538.0371 	EXP 	text_2: text = u'YELLOW'
+538.0371 	EXP 	fixationmain: autoDraw = True
+538.8367 	EXP 	fixationmain: autoDraw = False
+538.8534 	EXP 	text_2: autoDraw = True
+539.0202 	EXP 	Sound  stopped
+539.5034 	DATA 	Keypress: x
+540.1364 	EXP 	text_2: autoDraw = False
+541.0200 	EXP 	Sound  stopped
+541.0203 	EXP 	New trial (rep=0, index=24): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+541.0229 	EXP 	Sound  started
+541.0362 	EXP 	text_2: autoDraw = False
+541.0362 	EXP 	fixationmain: autoDraw = False
+541.0362 	EXP 	text_2: color = u'RED (named)'
+541.0362 	EXP 	text_2: text = u'BLUE'
+541.0362 	EXP 	fixationmain: autoDraw = True
+541.8359 	EXP 	fixationmain: autoDraw = False
+541.8526 	EXP 	text_2: autoDraw = True
+542.0193 	EXP 	Sound  stopped
+542.5027 	DATA 	Keypress: z
+543.1356 	EXP 	text_2: autoDraw = False
+544.0191 	EXP 	Sound  stopped
+544.0193 	EXP 	New trial (rep=0, index=25): {u'color': u'RED', u'congruent': 1, u'word': u'RED', u'corrans': u'z'}
+544.0231 	EXP 	Sound  started
+544.0354 	EXP 	text_2: autoDraw = False
+544.0354 	EXP 	fixationmain: autoDraw = False
+544.0354 	EXP 	text_2: color = u'RED (named)'
+544.0354 	EXP 	text_2: text = u'RED'
+544.0354 	EXP 	fixationmain: autoDraw = True
+544.8351 	EXP 	fixationmain: autoDraw = False
+544.8518 	EXP 	text_2: autoDraw = True
+545.0185 	EXP 	Sound  stopped
+545.5185 	DATA 	Keypress: z
+546.1348 	EXP 	text_2: autoDraw = False
+547.0184 	EXP 	Sound  stopped
+547.0186 	EXP 	New trial (rep=0, index=26): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+547.0215 	EXP 	Sound  started
+547.0345 	EXP 	text_2: autoDraw = False
+547.0345 	EXP 	fixationmain: autoDraw = False
+547.0345 	EXP 	text_2: color = u'RED (named)'
+547.0345 	EXP 	text_2: text = u'YELLOW'
+547.0345 	EXP 	fixationmain: autoDraw = True
+547.8343 	EXP 	fixationmain: autoDraw = False
+547.8510 	EXP 	text_2: autoDraw = True
+548.0176 	EXP 	Sound  stopped
+548.4676 	DATA 	Keypress: z
+549.1339 	EXP 	text_2: autoDraw = False
+550.0175 	EXP 	Sound  stopped
+550.0177 	EXP 	New trial (rep=0, index=27): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+550.0206 	EXP 	Sound  started
+550.0337 	EXP 	text_2: autoDraw = False
+550.0337 	EXP 	fixationmain: autoDraw = False
+550.0337 	EXP 	text_2: color = u'RED (named)'
+550.0337 	EXP 	text_2: text = u'YELLOW'
+550.0337 	EXP 	fixationmain: autoDraw = True
+550.8335 	EXP 	fixationmain: autoDraw = False
+550.8502 	EXP 	text_2: autoDraw = True
+551.0169 	EXP 	Sound  stopped
+551.3835 	DATA 	Keypress: z
+552.1331 	EXP 	text_2: autoDraw = False
+553.0167 	EXP 	Sound  stopped
+553.0169 	EXP 	New trial (rep=0, index=28): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+553.0195 	EXP 	Sound  started
+553.0329 	EXP 	text_2: autoDraw = False
+553.0329 	EXP 	fixationmain: autoDraw = False
+553.0329 	EXP 	text_2: color = u'GREEN (named)'
+553.0329 	EXP 	text_2: text = u'RED'
+553.0329 	EXP 	fixationmain: autoDraw = True
+553.8327 	EXP 	fixationmain: autoDraw = False
+553.8493 	EXP 	text_2: autoDraw = True
+554.0160 	EXP 	Sound  stopped
+554.7160 	DATA 	Keypress: n
+555.1323 	EXP 	text_2: autoDraw = False
+556.0158 	EXP 	Sound  stopped
+556.0160 	EXP 	New trial (rep=0, index=29): {u'color': u'BLUE', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'm'}
+556.0190 	EXP 	Sound  started
+556.0321 	EXP 	text_2: autoDraw = False
+556.0321 	EXP 	fixationmain: autoDraw = False
+556.0321 	EXP 	text_2: color = u'BLUE (named)'
+556.0321 	EXP 	text_2: text = u'YELLOW'
+556.0321 	EXP 	fixationmain: autoDraw = True
+556.8318 	EXP 	fixationmain: autoDraw = False
+556.8485 	EXP 	text_2: autoDraw = True
+557.0153 	EXP 	Sound  stopped
+557.4652 	DATA 	Keypress: m
+558.1315 	EXP 	text_2: autoDraw = False
+559.0150 	EXP 	Sound  stopped
+559.0152 	EXP 	New trial (rep=0, index=30): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+559.0180 	EXP 	Sound  started
+559.0312 	EXP 	text_2: autoDraw = False
+559.0312 	EXP 	fixationmain: autoDraw = False
+559.0312 	EXP 	text_2: color = u'BLUE (named)'
+559.0312 	EXP 	text_2: text = u'GREEN'
+559.0312 	EXP 	fixationmain: autoDraw = True
+559.8310 	EXP 	fixationmain: autoDraw = False
+559.8477 	EXP 	text_2: autoDraw = True
+560.0144 	EXP 	Sound  stopped
+560.2978 	DATA 	Keypress: m
+561.1307 	EXP 	text_2: autoDraw = False
+562.0143 	EXP 	Sound  stopped
+562.0145 	EXP 	New trial (rep=0, index=31): {u'color': u'RED', u'congruent': 0, u'word': u'BLUE', u'corrans': u'z'}
+562.0170 	EXP 	Sound  started
+562.0304 	EXP 	text_2: autoDraw = False
+562.0304 	EXP 	fixationmain: autoDraw = False
+562.0304 	EXP 	text_2: color = u'RED (named)'
+562.0304 	EXP 	text_2: text = u'BLUE'
+562.0304 	EXP 	fixationmain: autoDraw = True
+562.8302 	EXP 	fixationmain: autoDraw = False
+562.8469 	EXP 	text_2: autoDraw = True
+563.0136 	EXP 	Sound  stopped
+563.6302 	DATA 	Keypress: z
+564.1298 	EXP 	text_2: autoDraw = False
+565.0134 	EXP 	Sound  stopped
+565.0136 	EXP 	New trial (rep=0, index=32): {u'color': u'BLUE', u'congruent': 0, u'word': u'GREEN', u'corrans': u'm'}
+565.0166 	EXP 	Sound  started
+565.0296 	EXP 	text_2: autoDraw = False
+565.0296 	EXP 	fixationmain: autoDraw = False
+565.0296 	EXP 	text_2: color = u'BLUE (named)'
+565.0296 	EXP 	text_2: text = u'GREEN'
+565.0296 	EXP 	fixationmain: autoDraw = True
+565.8295 	EXP 	fixationmain: autoDraw = False
+565.8461 	EXP 	text_2: autoDraw = True
+566.0127 	EXP 	Sound  stopped
+566.5630 	DATA 	Keypress: m
+567.1290 	EXP 	text_2: autoDraw = False
+568.0127 	EXP 	Sound  stopped
+568.0129 	EXP 	New trial (rep=0, index=33): {u'color': u'GREEN', u'congruent': 0, u'word': u'RED', u'corrans': u'n'}
+568.0154 	EXP 	Sound  started
+568.0287 	EXP 	text_2: autoDraw = False
+568.0287 	EXP 	fixationmain: autoDraw = False
+568.0287 	EXP 	text_2: color = u'GREEN (named)'
+568.0287 	EXP 	text_2: text = u'RED'
+568.0287 	EXP 	fixationmain: autoDraw = True
+568.8286 	EXP 	fixationmain: autoDraw = False
+568.8452 	EXP 	text_2: autoDraw = True
+569.0120 	EXP 	Sound  stopped
+569.9118 	DATA 	Keypress: n
+570.1282 	EXP 	text_2: autoDraw = False
+571.0117 	EXP 	Sound  stopped
+571.0119 	EXP 	New trial (rep=0, index=34): {u'color': u'GREEN', u'congruent': 0, u'word': u'BLUE', u'corrans': u'n'}
+571.0145 	EXP 	Sound  started
+571.0279 	EXP 	text_2: autoDraw = False
+571.0279 	EXP 	fixationmain: autoDraw = False
+571.0279 	EXP 	text_2: color = u'GREEN (named)'
+571.0279 	EXP 	text_2: text = u'BLUE'
+571.0279 	EXP 	fixationmain: autoDraw = True
+571.8277 	EXP 	fixationmain: autoDraw = False
+571.8444 	EXP 	text_2: autoDraw = True
+572.0111 	EXP 	Sound  stopped
+572.3612 	DATA 	Keypress: n
+573.1274 	EXP 	text_2: autoDraw = False
+574.0110 	EXP 	Sound  stopped
+574.0112 	EXP 	New trial (rep=0, index=35): {u'color': u'GREEN', u'congruent': 0, u'word': u'BLUE', u'corrans': u'n'}
+574.0138 	EXP 	Sound  started
+574.0271 	EXP 	text_2: autoDraw = False
+574.0271 	EXP 	fixationmain: autoDraw = False
+574.0271 	EXP 	text_2: color = u'GREEN (named)'
+574.0271 	EXP 	text_2: text = u'BLUE'
+574.0271 	EXP 	fixationmain: autoDraw = True
+574.8269 	EXP 	fixationmain: autoDraw = False
+574.8436 	EXP 	text_2: autoDraw = True
+575.0103 	EXP 	Sound  stopped
+575.8435 	DATA 	Keypress: n
+576.1265 	EXP 	text_2: autoDraw = False
+577.0101 	EXP 	Sound  stopped
+577.0103 	EXP 	New trial (rep=0, index=36): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+577.0131 	EXP 	Sound  started
+577.0263 	EXP 	text_2: autoDraw = False
+577.0263 	EXP 	fixationmain: autoDraw = False
+577.0263 	EXP 	text_2: color = u'YELLOW (named)'
+577.0263 	EXP 	text_2: text = u'GREEN'
+577.0263 	EXP 	fixationmain: autoDraw = True
+577.8260 	EXP 	fixationmain: autoDraw = False
+577.8427 	EXP 	text_2: autoDraw = True
+578.0094 	EXP 	Sound  stopped
+578.5262 	DATA 	Keypress: x
+579.1258 	EXP 	text_2: autoDraw = False
+580.0094 	EXP 	Sound  stopped
+580.0096 	EXP 	New trial (rep=0, index=37): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+580.0125 	EXP 	Sound  started
+580.0255 	EXP 	text_2: autoDraw = False
+580.0255 	EXP 	fixationmain: autoDraw = False
+580.0255 	EXP 	text_2: color = u'RED (named)'
+580.0255 	EXP 	text_2: text = u'YELLOW'
+580.0255 	EXP 	fixationmain: autoDraw = True
+580.8254 	EXP 	fixationmain: autoDraw = False
+580.8419 	EXP 	text_2: autoDraw = True
+581.0087 	EXP 	Sound  stopped
+581.5253 	DATA 	Keypress: z
+582.1249 	EXP 	text_2: autoDraw = False
+583.0084 	EXP 	Sound  stopped
+583.0086 	EXP 	New trial (rep=0, index=38): {u'color': u'YELLOW', u'congruent': 0, u'word': u'GREEN', u'corrans': u'x'}
+583.0117 	EXP 	Sound  started
+583.0248 	EXP 	text_2: autoDraw = False
+583.0248 	EXP 	fixationmain: autoDraw = False
+583.0248 	EXP 	text_2: color = u'YELLOW (named)'
+583.0248 	EXP 	text_2: text = u'GREEN'
+583.0248 	EXP 	fixationmain: autoDraw = True
+583.8244 	EXP 	fixationmain: autoDraw = False
+583.8411 	EXP 	text_2: autoDraw = True
+584.0078 	EXP 	Sound  stopped
+584.5411 	DATA 	Keypress: x
+585.1241 	EXP 	text_2: autoDraw = False
+586.0077 	EXP 	Sound  stopped
+586.0079 	EXP 	New trial (rep=0, index=39): {u'color': u'RED', u'congruent': 0, u'word': u'YELLOW', u'corrans': u'z'}
+586.0108 	EXP 	Sound  started
+586.0238 	EXP 	text_2: autoDraw = False
+586.0238 	EXP 	fixationmain: autoDraw = False
+586.0238 	EXP 	text_2: color = u'RED (named)'
+586.0238 	EXP 	text_2: text = u'YELLOW'
+586.0238 	EXP 	fixationmain: autoDraw = True
+586.8237 	EXP 	fixationmain: autoDraw = False
+586.8403 	EXP 	text_2: autoDraw = True
+587.0070 	EXP 	Sound  stopped
+587.9568 	DATA 	Keypress: z
+588.1232 	EXP 	text_2: autoDraw = False
+589.0068 	EXP 	Sound  stopped
+589.0230 	EXP 	text_2: autoDraw = False
+589.0230 	EXP 	fixationmain: autoDraw = False
+589.0230 	EXP 	rest_text: text = '+'
+589.0230 	EXP 	rest_text: autoDraw = True
+649.0232 	EXP 	rest_text: autoDraw = False
+649.0232 	EXP 	rest_text: autoDraw = False
+649.0232 	EXP 	ending_text: autoDraw = True
+650.8230 	DATA 	Keypress: space

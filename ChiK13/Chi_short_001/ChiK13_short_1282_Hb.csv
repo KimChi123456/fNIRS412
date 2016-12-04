@@ -1,0 +1,12 @@
+Version,5.01
+EXT Filename,C:\fNIRS\data\ChiK13_short_1282_Hb.csv
+Date,2016/08/31 16:07:07
+Records,3
+Data Folder,
+.OMM Filename,ChiK13_20160831_1282.OMM
+.PROT Filename,thuongshortstroop.pro
+Gain Pattern Filename,
+Start Time,Protocol Type,Pre.Rest,Task,Pos.Rest
+00:01:00.00,1,60.000000,120.000000,30.000000
+00:04:00.02,2,30.000000,120.000000,30.000000
+00:07:00.04,3,30.000000,120.000000,30.000000

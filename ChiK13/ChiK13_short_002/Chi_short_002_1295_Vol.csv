@@ -1,0 +1,12 @@
+Version,5.01
+EXT Filename,C:\fNIRS\data\Chi_short_002_1295_Vol.csv
+Date,2016/09/06 09:14:35
+Records,3
+Data Folder,
+.OMM Filename,Chi_20160906_1295.OMM
+.PROT Filename,thuongshortstroop.pro
+Gain Pattern Filename,
+Start Time,Protocol Type,Pre.Rest,Task,Pos.Rest
+00:01:00.00,1,60.000000,120.000000,30.000000
+00:04:00.02,2,30.000000,120.000000,30.000000
+00:07:00.04,3,30.000000,120.000000,60.000000

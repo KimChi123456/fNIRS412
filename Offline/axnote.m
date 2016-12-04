@@ -1,0 +1,19 @@
+function axnote(string)
+
+% axnote(string)
+% 
+% Place text string within axis to display additional information
+
+font_size = get(0, 'DefaultAxesFontSize');
+
+h1 = text(0.99, 0.95, string, ...
+    'units', 'normalized', ...
+    'horizontalalignment', 'right', ...
+    'verticalalignment','top', ...
+    'fontsize', font_size, ...
+    'backgroundColor','white' ...
+    );
+
+
+
+
